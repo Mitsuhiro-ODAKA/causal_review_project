@@ -43,11 +43,12 @@ Crossref、OpenAlex、PubMedなどの主要学術データベースから約1,00
 LLMから抽出された因果関係・使用データ・分析手法に関する情報は、構造化データとして整理した後、タプル形式（原因、結果、説明、データ種別、分析手法）でPandasデータフレームに保存した。その後、因果関係に登場する用語や手法について意味的類似性を考慮したクラスタリングを行った。
 
 頻出データ、手法のランキング
-![data_types_cluster](imgs/plots/data_types_clustering.png)
-![methods_cluster](imgs/plots/methods_clustering.png)
+![data_types_freq](imgs/data_types_frequency_jp.png)
+![methods_freq](imgs/methods_frequency_jp.png)
 
 クラスター
-![data_types_freq](imgs/data_types_frequency_jp.png)
+![data_types_cluster](imgs/plots/data_types_clustering.png)
+![methods_cluster](imgs/plots/methods_clustering.png)
 
 ### 2.5. 因果ネットワーク構築と仮説の探索
 抽出した因果関係のペアをもとに、感染症・貧困・気候変動の三要素間における因果ネットワーク（有向グラフ）を構築し、俯瞰的に可視化した。さらにネットワーク分析を実施し、各ノード（要素）の媒介中心性（betweenness centrality）や次数中心性（degree centrality）を定量化し、ネットワークの中で重要な媒介要素や中心的概念を特定した。結果、感染症・貧困・気候変動の3つの要素は明確な相互関連性を示し、中心性の分析からは特に貧困が「中間媒介変数」として頻繁に登場することが示された。また、クラスター係数の分析により、気候変動から感染症への経路において貧困を媒介した関係性が多く確認された。これらの結果は、三要素が孤立した関係ではなく、複雑な媒介関係を含むネットワーク構造を形成していることを示唆している。
