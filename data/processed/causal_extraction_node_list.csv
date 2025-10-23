@@ -1,0 +1,597 @@
+﻿,node,node_rename
+0,COVID-19 stressors,COVID-19
+1,Drought,Droughts and weather extremes
+2,Climate change,Climate change
+3,Extreme weather events,Droughts and weather extremes
+4,IPV,IPV
+5,HIV-related stigma and discrimination,HIV-related stigma and discrimination
+6,HIV status has impacted sexual life negatively,HIV-related stigma and discrimination
+7,HIV status has impacted the ability to engage in social relationships negatively,HIV-related stigma and discrimination
+8,Subjective safety,Subjective safety
+9,Objective hazard,Hazards
+10,Age,Age
+11,None/primary,
+12,Ever smoked,Smoking
+13,HIV positive,HIV
+14,Cause,
+15,Localised public health threats,Localised public health threats
+16,education level,Education level
+17,Marital status,Marital status
+18,Monthly average sunshine duration,Sunshine duration
+19,Monthly per capita GDP,GDP
+20,Mean temperature,Mean temperature
+21,Mean air pressure,Mean air pressure
+22,Lower promiscuity from 1980 onwards,Lower promiscuity from 1980 onwards
+23,The proportion of male pending short links that are fulfilled by females,The proportion of male pending short links that are fulfilled by females
+24,SES,SES
+25,age,Age
+26,vegetation density,Vegetation density
+27,Household SES,SES
+28,Marital status (Single),Marital status
+29,Marital status (Other),Marital status
+30,Maternal age group (14–19),Maternal age group (14–19)
+31,Sanitation and drinking water facilities,Sanitation and water
+32,"Dengue knowledge, socio-demographic factors, and ecological conditions in Delhi",Dengue
+33,Penalized multivariable logistic regression model,
+34,Not receiving antiretroviral treatment,Not receiving antiretroviral treatment
+35,Higher emotional stress,Emotional stress
+36,HIV infection,HIV
+37,Fear of discrimination,Fear of discrimination
+38,Pregnant,Pregnant
+39,Male sex,Male sex
+40,Black race/color,Black race/color
+41,Tuberculosis relapse,Tuberculosis
+42,HIV-positive status,HIV
+43,Alcoholism,Alcohol
+44,Illicit drug use,Drug use
+45,Smoking,Smoking
+46,Homelessness,Homelessness
+47,Immigrant status,Immigrant status
+48,Indigenous identity,Indigenous identity
+49,Government assistance beneficiaries,Government assistance beneficiaries
+50,BCG vaccination,BCG vaccination
+51,Recent TB contact,Tuberculosis
+52,Number of total screens (dashboard),Number of total screens (dashboard)
+53,Number of tests (NHLS),Number of tests (NHLS)
+54,post-TB,Tuberculosis
+55,"age,sex,region,educational level,smoking history and pack-years,HAP,occupational exposure and history of asthma",
+56,TB outbreaks,Tuberculosis
+57,Simple scoring systems,
+58,The TCS could not reliably identify individual subjects or families with subclinical TB.,
+59,degrees of poverty,Poverty
+60,Residing in a high HIV prevalence stratum,Residing in a high HIV prevalence stratum
+61,Low education,Low education
+62,Lower education levels,Low education
+63,TB patients,Tuberculosis
+64,Less than 200,
+65,Greater than/equal to 500,
+66,No/some primary education,Low education
+67,Alcohol consumption,Alcohol
+68,TB rate,Tuberculosis
+69,Proportion of literacy in neighbourhood,Proportion of literacy in neighbourhood
+70,Low monthly income (< minimum wage),Low income
+71,Age ≥ 65 years,Age
+72,Covid-19 rate,COVID-19
+73,Region,
+74,Chronic inflammation,Chronic inflammation
+75,Tuberculosis infection,Tuberculosis
+76,Having a paid employment,Employment
+77,Racial group categories,
+78,Aging,Age
+79,Low income,Low income
+80,Poor mosquito control,Poor mosquito control
+81,many FBWs have children who are partially or fully dependent upon them,many FBWs have children who are partially or fully dependent upon them
+82,No restrictions on time period or language were applied.,No restrictions on time period or language were applied.
+83,Having multiple sexual partners,Having multiple sexual partners
+84,Ever using injection drugs,Ever using injection drugs
+85,Started offering ART in the area via mobile clinics,Started offering ART in the area via mobile clinics
+86,No choice,
+87,Obligation,Obligation
+88,Household wealth index,Household wealth index
+89,Lifetime sexual partners,Lifetime sexual partners
+90,Low CD4 count,Low CD4
+91,"Delaies in diagnosis, enrolment into HIV care, and initiation of ART","Delaies in diagnosis, enrolment into HIV care, and initiation of ART"
+92,Experiencing all types of IPV,Experiencing all types of IPV
+93,Having an alcoholic husband,Alcohol
+94,MIS utilization,MIS utilization
+95,Multiple associated factors,Multiple associated factors
+96,Social development,Social development
+97,Level of social development,Social development
+98,X8,
+99,X2,
+100,Mother’s education level,Mother’s education level
+101,Place of residence,Place of residence
+102,Mosquito net ownership,Mosquito net ownership
+103,Number of children in the household,Number of children in the household
+104,Year of study,Year of study
+105,Sample size,Sample size
+106,Male,Male
+107,Age 4y+,Age 4y+
+108,Aging (15-64 years) and Aging (65 years and above),Aging (15-64 years) and Aging (65 years and above)
+109,Household does not own a hamlet,Household does not own a hamlet
+110,Lives > 20 km from an urban area,Lives > 20 km from an urban area
+111,Lowest SES quintile,Lowest SES quintile
+112,Wealth quintiles,Wealth quintiles
+113,Proxy input parameters,Proxy input parameters
+114,LLIN interventions,LLIN interventions
+115,Malaria vaccine,Malaria vaccine
+116,Malaria infection,Malaria
+117,Sex of child,Sex of child
+118,Household size,Household size
+119,Type of mosquito net,Type of mosquito net
+120,Fever,Fever
+121,MHHs,MHHs
+122,Case,
+123,Diarrhea,Diarrhea
+124,Torn ITNs,Torn ITNs
+125,Age < 5,Age < 5
+126,Age 5-14,Age 5-14
+127,Age > 14,Age > 14
+128,Malaria RDT results,Malaria
+129,Household head occupation,Household head occupation
+130,Household head education,Household head education
+131,Household wealth tertile,Household wealth tertile
+132,Malaria,Malaria
+133,Malaria diagnosis based on self-reports,Malaria
+134,Low knowledge level,Low knowledge level
+135,Mother's education level,Mother's education level
+136,Wealth index,Wealth index
+137,Socioeconomic factors,Socioeconomic factors
+138,,nan
+139,Changes in temperature condition,Changes in temperature condition
+140,Temperature deviation > 1,Temperature deviation > 1
+141,Increased precipitation,Increased precipitation
+142,Age below 25 years,Age below 25 years
+143,Married,Marital status
+144,Divorced/widowed,Divorced/widowed
+145,Unemployed,Unemployment
+146,Food-insecure,Food-insecure
+147,Comorbidities,Comorbidities
+148,Socio-economic status,Socio-economic status
+149,Educational achievement,Educational level
+150,Employment status,Employment
+151,Disease burden,Disease burden
+152,LNINF,
+153,LNPHY,
+154,Cigarette smoking,Smoking
+155,Harmful alcohol use,Alcohol
+156,Contact infected water,Contact infected water
+157,VL outbreaks,Visceral Leishmaniasis
+158,All age groups were affected by VL,Visceral Leishmaniasis
+159,Temperature and relative humidity,Temperature and relative humidity
+160,El Niño,El Niño
+161,Dengue hemorrhagic fever epidemics,Dengue
+162,Slide positive rate,
+163,Study site,Study site
+164,AIDS,AIDS
+165,Having fever,Fever
+166,Traveling to malaria endemic area outside the village,Traveling to malaria endemic area outside the village
+167,I don't know the answer. The provided document appears to be a research paper and its supplementary information,
+168,Deprivation quintile,Deprivation quintile
+169,"Sex, female","Sex, female"
+170,"Income, <Regional Minimum Wage",Low income
+171,"Marital status, Single",Marital status
+172,"Marital status, Divorced or widowed",Marital status
+173,"Smoke per years, >10 pack-years",Smoking
+174,"Alcohol consumption, yes",Alcohol
+175,"Travelling time, >3 hours","Travelling time, >3 hours"
+176,"Role of PMO, supportive","Role of PMO, supportive"
+177,We did not adjust for country-level confounding,
+178,Physical violence ever by client,Physical violence ever by client
+179,Holiday,Holiday
+180,Disease knowledge,Disease knowledge
+181,Risk factors,
+182,Elevation,Elevation
+183,Annual rainfall,Annual rainfall
+184,Farming being the main source of income,Farming being the main source of income
+185,Eaves gaps in households,Eaves gaps in households
+186,Don't know,
+187,Age group,Age group
+188,Socio-economic variables,Socio-economic variables
+189,Health districts,Health districts
+190,Vector control activities,Vector control activities
+191,Dengue status,Dengue
+192,Vegetation index,Vegetation index
+193,GDP,GDP
+194,Road density,Road density
+195,Population density,Population density
+196,LTBI and no treatment,Tuberculosis
+197,Not tested,
+198,Having a spouse with TB,Having a spouse with Tuberculosis
+199,mother's wealth category,mother's wealth category
+200,ever given birth,ever given birth
+201,Anemia,Anemia
+202,Discrimination at job,Discrimination at job
+203,Injury on the job,Injury on the job
+204,Poverty Ratio,Poverty
+205,Living with family,Living with family
+206,Region of residence 2 years before induction,Region of residence 2 years before induction
+207,Occupation,Occupation
+208,Have electricity,Have electricity
+209,Islam,Islam
+210,Had a job currently or had a job in past year,Had a job currently or had a job in past year
+211,Mother death,Mother death
+212,Holdings SES variation,Holdings SES variation
+213,LP,LP
+214,time-period (2004–2008),time-period (2004–2008)
+215,Slept on farm,Slept on farm
+216,Children,Children
+217,Under-five mortality rate,Under-five mortality rate
+218,No statistically significant relationship between under-five mortality and fertility,No statistically significant relationship between under-five mortality and fertility
+219,Applying the thematic framework to all transcripts,Applying the thematic framework to all transcripts
+220,Minimum yearly temperature,Minimum yearly temperature
+221,% Mayan population,% Mayan population
+222,Age >60 years,Age >60 years
+223,Deterioro cognitivo y síntomas depresivos,Deterioro cognitivo y síntomas depresivos
+224,Enfermedad pulmonar crónica,Enfermedad pulmonar crónica
+225,Panel regression,Panel regression
+226,Random effect model,Random effect model
+227,Household exposure to Beijing strains,Household exposure to Beijing strains
+228,Household exposure to Beijing lineage,Household exposure to Beijing lineage
+229,Year of death,Year of death
+230,Media exposure,Media exposure
+231,Multiple sexual partners,Multiple sexual partners
+232,Heard about HIV,Heard about HIV
+233,Residence (Rural),Residence (Rural)
+234,Electricity,Electricity
+235,Establishment of a special fund for leprosy,Establishment of a special fund for leprosy
+236,Have a psychiatric disorder,Have a psychiatric disorder
+237,HIV+ and thinking you will have more complications if you acquire COVID-19,HIV
+238,Family poverty,Poverty
+239,Rainfall reduction,Rainfall reduction
+240,Lack of sustained water policy,Lack of sustained water policy
+241,Treatment capacity is insufficient,Treatment capacity is insufficient
+242,Distrust among the working institutions of the provinces,Distrust among the working institutions of the provinces
+243,Number of political and racist movements getting a strong point of interest and added authority to the opinion of the opposition,Number of political and racist movements getting a strong point of interest and added authority to the opinion of the opposition
+244,Malnutrition,Malnutrition
+245,Extreme social inequalities,Extreme social inequalities
+246,lack of sustained water policy,lack of sustained water policy
+247,insufficient treatment capacity,insufficient treatment capacity
+248,"presence of accords, treaties and formulas","presence of accords, treaties and formulas"
+249,Desertiﬁcation,Desertiﬁcation
+250,DC,
+251,E,
+252,Barents-Kara sea-ice loss,Barents-Kara sea-ice loss
+253,Aspirations_Reduced_Parenthood,Aspirations_Reduced_Parenthood
+254,Parents_Religiosity,Parents_Religiosity
+255,Partnership,Partnership
+256,Employed_Mothers,Employed_Mothers
+257,Climate-related degradation of pastures,Climate-related degradation of pastures
+258,Weather shocks,Weather shocks
+259,Cancer,Cancer
+260,Illness,
+261,Observational record,Observational record
+262,Internal variability,Internal variability
+263,Aerosol concentration,Aerosol concentration
+264,CO2 emissions,CO2 emissions
+265,Economic growth,Economic growth
+266,Trade openness,Trade openness
+267,Gross capital formation,Gross capital formation
+268,Foreign direct investment,Foreign direct investment
+269,International tourism,International tourism
+270,Capital formation,Capital formation
+271,SO2,SO2
+272,NO2,NO2
+273,PM10,PM10
+274,Income,Income
+275,People want to conform to others,
+276,Option that is dominant in the community becomes more salient,Option that is dominant in the community becomes more salient
+277,Financial development,Financial development
+278,Increased finance with low cost of capital,Increased finance with low cost of capital
+279,Financial crisis,Financial crisis
+280,Extreme natural event,Extreme natural event
+281,Economic downturn,Economic downturn
+282,Unequal access to resources,Unequal access to resources
+283,Societal issues,Societal issues
+284,European summer weather,European summer weather
+285,Arcic teleconnections,Arcic teleconnections
+286,Arctic amplification (AA),Arctic amplification (AA)
+287,upstream latent heat release,upstream latent heat release
+288,major tropical atmospheric uplifts,major tropical atmospheric uplifts
+289,Damages,Damages
+290,Primary drivers,
+291,A stationary Jet Stream position,A stationary Jet Stream position
+292,Drought and heat waves,Droughts and weather extremes
+293,WELF,
+294,PLP,
+295,TRADE,
+296,Hurricane Katrina,Tropical cyclone
+297,Joanna D. Haigh,
+298,"Labour (available supply of hired labour, quality of hired labour)",Labour
+299,Log colleges per capita in 1940,Log colleges per capita in 1940
+300,health innovations,health innovations
+301,Growth in per capita income,Icome
+302,Maternal reports about child health,Maternal reports about child health
+303,Born in recessions,Born in recessions
+304,Year -3,
+305,Tropical cyclone exposure,Tropical cyclone
+306,High temperatures in neighboring counties,High temperatures in neighboring counties
+307,climate change,Climate change
+308,Precipitation deviation from historical norms,Precipitation deviation from historical norms
+309,Deteriorating environment,Deteriorating environment
+310,Carbon dioxide emissions,Carbon dioxide emissions
+311,Global warming,Global warming
+312,Extreme weather,Droughts and weather extremes
+313,Urban population growth,Urban population growth
+314,Deterministic system,Deterministic system
+315,Spike-based interactions,Spike-based interactions
+316,em,
+317,Stratiform anvil clouds,Stratiform anvil clouds
+318,Droughts and weather extremes,Droughts and weather extremes
+319,Changes in exposure or vulnerability,Vulnerability
+320,Crop yields,Crop yields
+321,Land use changes,Land use changes
+322,Climatic drivers,Climatic drivers
+323,Low-dimensional models,Low-dimensional models
+324,Water scarcity,Water scarcity
+325,↓ICEJan,
+326,Precipitation,Precipitation
+327,"""psychological distress""",psychological distress
+328,"""Heat-related illnesses""",Heat-related illnesses
+329,"""Altered patterns of vector-borne and water-borne diseases""",Altered patterns of vector-borne and water-borne diseases
+330,"""Poverty""",Poverty
+331,"""Decreased food yields""",Decreased food yields
+332,"""Povety and food insecurity""",Poverty
+333,"""Emotional IPV experience""",Emotional IPV experience
+334,Mental well-being,Mental well-being
+335,Mental health disorder,Mental health disorder
+336,Neglect of condom use,Neglect of condom use
+337,"""Being at risk for financial resource strain""",Being at risk for financial resource strain
+338,Underweight,Weight loss
+339,Tobacco use history,Tobacco
+340,Anaemia risk,Anaemia
+341,Effect,
+342,Public health impacts,Public health impacts
+343,employment opportunities and income,Employment
+344,area-level deprivation at the place of residence,area-level deprivation at the place of residence
+345,Single experience unintended pregnancy,Single experience unintended pregnancy
+346,"""Incidence of tuberculosis""",Tuberculosis
+347,Median HIV incidence,HIV
+348,"""malaria infection""",Malaria
+349,Lower total cholesterol,Lower total cholesterol
+350,Higher total cholesterol,Higher total cholesterol
+351,Mortality,Mortality
+352,None of the socioeconomic variables were picked during the geostatistical variable selection process,None of the socioeconomic variables were picked during the geostatistical variable selection process
+353,Effective dengue control strategies,Dengue control strategies
+354,Multicollinearity adjustment,Multicollinearity adjustment
+355,"""Completed suicide""",Completed suicide
+356,"""Hopelessness""",Hopelessness
+357,"""Suicide""",Suicide
+358,Unfavorable outcomes,Unfavorable outcomes
+359,"""LTBI""",LTBI
+360,Number of positive screens (dashboard),Number of positive screens (dashboard)
+361,Number of positive tests (NHLS),Number of positive tests (NHLS)
+362,"""Increasing risk of ARI""",Increasing risk of ARI
+363,Airflow obstruction,Airflow obstruction
+364,Confounding variables,Confounding variables
+365,Prevalence of DR-TB patients,Tuberculosis
+366,Study was motivated by,Study was motivated by
+367,Continued search for host,Continued search for host
+368,"""TB transmission""",Tuberculosis
+369,"""Being part of an HIV infected couple""",Being part of an HIV infected couple
+370,Unemployment,Unemployment
+371,Poorly paid work,Poorly paid work
+372,Psychological distress,Psychological distress
+373,CD4 counts,Low CD4
+374,Viral load,Viral load
+375,PLWH and syphilis co-infection,HIV
+376,COVID-19 incidence,COVID-19
+377,TB incidence,Tuberculosis
+378,"""Malaria parasitaemia""",Malaria
+379,"""multiple tumour-promoting responses and seeds neoplastic microenvironments""",Cancer
+380,"""genome alteration with DNA damage led by oxidative stress""",Oxidative stress
+381,Paid employment,Employment
+382,Health inequalities,Health inequalities
+383,DENV infection,Dengue
+384,Children dependency,Children dependency
+385,HIV research,
+386,"""T. pallidum infection""",Syphilis
+387,"""Other strategies implemented after the survey""",Other strategies implemented after the survey
+388,Dealing with PLTB,Tuberculosis
+389,Taking care of family member,Taking care of family member
+390,"""Higher risk of LTFU""",Higher risk of LTFU
+391,"""Low median CD4 count""",Low CD4
+392,"""Comprehensive analysis""",Comprehensive analysis
+393,"""More nuanced understanding""",More nuanced understanding
+394,Decreasing ASIR,Decreasing ASIR
+395,Tuberculosis incidence,Tuberculosis
+396,Income level,Income
+397,Malaria status,Malaria
+398,"""Health care seeking behavior from Health Facilities""",Health care seeking behavior from Health Facilities
+399,"""Not seeking health care from any sources""",Not seeking health care from any sources
+400,Increased odds of having malaria,Malaria
+401,Decreased odds of having malaria,Malaria
+402,Increased ITN use,Increased ITN use
+403,Lower Plasmodium falciparum infection rate,Malaria negative
+404,Might overestimate malaria cases,Malaria
+405,Would eliminate private health expenditures,Would eliminate private health expenditures
+406,Would prevent 2% of malaria-related child deaths,Would prevent 2% of malaria-related child deaths
+407,Anaemia,Anaemia
+408,Lower odds of under-five malaria infection,Lower odds of under-five malaria infection
+409,Malaria risk,Malaria
+410,"""Plasmodium infection status""",Malaria
+411,Increased malaria infection,Malaria
+412,Data abstraction,Data abstraction
+413,Lose potency,Lose potency
+414,Has lower malaria positivity rate,Malaria negative
+415,Has higher malaria positivity rate,Malaria
+416,Malaria misclassification,Malaria misclassification
+417,High knowledge level,High knowledge level
+418,Malaria prevalence,Malaria
+419,"""Effective malaria prevention""",Malaria negative
+420,"""alter breeding sites""",alter breeding sites
+421,"""VL cases increase""",Visceral Leishmaniasis
+422,"""VL risk elevation""",Visceral Leishmaniasis
+423,GPH,GPH
+424,GMH,GMH
+425,Self-efficacy,Self-efficacy
+426,Mental health,Mental health disorder
+427,indicating greater absolute inequality,indicating greater absolute inequality
+428,LNHIV,HIV
+429,Government,Government
+430,Male sex X2 = 17.999 P = 0.000,Male sex
+431,Lower education X2 = 9.86 P = 0.000,Low education
+432,Low income X2 = 13.68 P = 0.002,Low income
+433,Cigarette smoking 3.4 1.38 – 8.40,Smoking
+434,"""Fever and diarrhea""",Fever and diarrhea
+435,VL surveillance data are not available at the block level prior to 2009,Visceral Leishmaniasis
+436,Risk was significantly higher among 10–19 year-olds and adults 35 years or older compared to children younger than 10 years,Risk was significantly higher among 10–19 year-olds and adults 35 years or older compared to children younger than 10 years
+437,"""Dengue fever cases""",Dengue
+438,"""Vectorborne disease transmission""",Vectorborne disease transmission
+439,"""Epidemiology""",
+440,Parasitaemia level difference,Parasitaemia level difference
+441,Platelet count in patients with severe P. knowlesi infections,Malaria
+442,Increased TB incidence,Tuberculosis
+443,RDT positivity,RDT positivity
+444,which does not contain causal relationships that can be extracted in the specified CSV format. The text only discusses the study's methodology,
+445,"""Excess risk of non-MDR-TB""",non-MDR-TB
+446,"""Lower risk of MDR-TB""",MDR-TB negative
+447,"""Higher risk of MDR-TB""",Tuberculosis
+448,HIV heterogeneity,HIV
+449,"""Depression (PHQ-9)""",Depression (PHQ-9)
+450,"""Suicide ideation or attempt ever""",Suicide ideation or attempt ever
+451,Decreased hospitalization,Decreased hospitalization
+452,Demand for prevention,Demand for prevention
+453,"""Wound healing""",Wound healing
+454,"""Wound volume""",Wound volume
+455,"""S. haematobium infection""",Schistosomiasis
+456,Dengue risk,Dengue
+457,Types of vector control activities,Types of vector control activities
+458,"""Transmission of dengue""",Dengue
+459,"""IgG positivity""",IgG positivity
+460,"""Anti-DENV IgG seropositivity""",Anti-DENV IgG seropositivity
+461,living in certain health districts,living in certain health districts
+462,S. mansoni infection risk,Schistosomiasis
+463,Increased community participation,Increased community participation
+464,Risk factors for symptomatic dengue,Dengue
+465,Disease risk,Disease risk
+466,"""DF cases""",DF cases
+467,No LTBI,No LTBI
+468,mother's utilization of health services during and after her last pregnancy,mother's utilization of health services during and after her last pregnancy
+469,Experience of violence among girls aged 10–14 years,Experience of violence among girls aged 10–14 years
+470,Increased mortality,Increased mortality
+471,Lost employment,Unemployment
+472,"""% Latino Living Below Poverty""",Poverty
+473,"""Mean (SD)""",
+474,"""No""",
+475,"""Upper North""",
+476,"""Student""",Student
+477,Testing positive,Testing positive
+478,Some knowledge of the disease,Some knowledge of the disease
+479,Child survival,Child survival
+480,Main finding,Main finding
+481,"""composite endpoint""",
+482,"""risk factors for LP and LPAD had changed over time""",risk factors for LP and LPAD had changed over time
+483,Malaria prevention knowledge,Malaria prevention knowledge
+484,Age-related infection risk,Age-related infection risk
+485,"""Fertility""",Fertility
+486,Organized codes reflecting prominent themes within the dataset,Organized codes reflecting prominent themes within the dataset
+487,"""Dengue fever incidence""",Dengue
+488,Progresión de síntomas graves o muerte,Death
+489,Fragilidad del estado de salud,Fragility of health status
+490,Desarrollo de Covid-19 severo,COVID-19
+491,"Muerte, ingreso en UCI y VMI",
+492,could not include all 128 factors and ID and time to fit,
+493,better than the pool model and fixed effect model,
+494,TST-positive,TST-positive
+495,TB progression,Tuberculosis
+496,"""Percentage of deaths from TB""",Tuberculosis
+497,"""Older PLWH in SA group""",Older PLWH in SA group
+498,"""Heard about HIV""",Heard about HIV
+499,"""Yes""",
+500,"""Anemia status""",Anemia
+501,"""More stable association results""",More stable association results
+502,Anxiety,Anxiety
+503,Malaria deaths,Malaria
+504,"""Impact on larval breeding sites""",Impact on larval breeding sites
+505,treatment capacity is insufficient,treatment capacity is insufficient
+506,socioeconomic and agricultural crises,socioeconomic and agricultural crises
+507,number of political and racist movements getting a strong point of interest and added authority to the opinion of the opposition,number of political and racist movements getting a strong point of interest and added authority to the opinion of the opposition
+508,atmosphere of hatred among the people,atmosphere of hatred among the people
+509,"""impairs cell-mediated immunity""",impairs cell-mediated immunity
+510,Poor health education,Low education
+511,Interprovincial relations are affected,Interprovincial relations are affected
+512,Water sharing issue remains persistent,Water sharing issue remains persistent
+513,sea level rise,sea level rise
+514,storms,storms
+515,vulnerability,Vulnerability
+516,floods,floods
+517,"""Increase in political violence""",Increase in political violence
+518,I,
+519,"""changes in the strength of the stratospheric polar vortex""",changes in the strength of the stratospheric polar vortex
+520,Fertility_Reduction,Fertility_Reduction
+521,Children_Fertility,Children_Fertility
+522,Childbearing,Childbearing
+523,Age_of_First_Birth,Age_of_First_Birth
+524,Collapse of pastoral ecosystems,Collapse of pastoral ecosystems
+525,Widespread loss of income for households,Low income
+526,Loss of income-generating resources from livestock,Loss of income-generating resources from livestock
+527,Obesity,Obesity
+528,Weight loss,Weight loss
+529,Global-mean surface temperature,Global-mean surface temperature
+530,Greenhouse gas ERF,Greenhouse gas ERF
+531,Aerosol ERF,Aerosol ERF
+532,ACI,ACI
+533,Energy consumption,Energy consumption
+534,Real GDP,GDP
+535,Welfare-promoting effect,Welfare-promoting effect
+536,Air pollutants,Air pollutants
+537,Traffic volume,Traffic volume
+538,Household income,Income
+539,Income inequality,Income inequality
+540,Behavioral changes,Behavioral changes
+541,Certain choices,Certain choices
+542,"""Increased emissions""",Increased emissions
+543,"""Production and pollution increase""",Production and pollution increase
+544,"""Carbon emissions reduction""",Carbon dioxide emissions
+545,Social vulnerability,Vulnerability
+546,Double exposure to hazards,Hazards
+547,Vulnerability,Vulnerability
+548,"""persistent hot-dry conditions""",persistent hot-dry conditions
+549,"""more persistent hot-dry extremes in the mid-latitudes""",more persistent hot-dry extremes in the mid-latitudes
+550,"""mid-latitude circulation and possibly ward temperature gradient""",mid-latitude circulation and possibly ward temperature gradient
+551,"""persistent blocking""",persistent blocking
+552,"""strong average causal effect and average causal susceptibility in the network""",strong average causal effect and average causal susceptibility in the network
+553,"""Number of emigrants from lowest income quintile""",Number of emigrants from lowest income quintile
+554,"""Inequality""",Inequality
+555,"""extremely cold North Atlantic Ocean surface temperatures""",Droughts and weather extremes
+556,"""development of high pressure and temperature extremes over Central Europe during the heat wave""",development of high pressure and temperature extremes over Central Europe during the heat wave
+557,different phenomena that interact during El Niño,El Niño
+558,regions that oscillate between dry and wet conditions,regions that oscillate between dry and wet conditions
+559,complexity of the area of competence,complexity of the area of competence
+560,"""TRADE""",TRADE
+561,"""WELF""",WELF
+562,Trapped poor people,Trapped poor people
+563,Surface temperature,Surface temperature
+564,Solar activity,Solar activity
+565,"""Deforestation""",Deforestation
+566,∆log(average MSA family income),∆log(average MSA family income)
+567,∆log(city median house value),∆log(city median house value)
+568,Health improvements,Better health
+569,Better health,Better health
+570,Poor child health,Poor child health
+571,Higher mortality rates,Higher mortality rates
+572,Completed years of education,Education level
+573,Expected cyclone exposure,Tropical cyclone
+574,"""A county's own income""",Income
+575,Output growth,Output growth
+576,"""Renewable energy consumption""",Renewable energy consumption
+577,"""Global warming""",Global warming
+578,"""Carbon dioxide emissions""",Carbon dioxide emissions
+579,"""Prevalence of undernourishment""",Undernourishment
+580,Recurrence,Recurrence
+581,Cannot be reduced to rate-based interactions,
+582,"""q′ + 2""",
+583,"""cools the lower troposphere and heats the upper troposphere""",cools the lower troposphere and heats the upper troposphere
+584,Observed damages,Damages
+585,Direct economic damages,Economic damages
+586,Climate-driven changes in crop yields,Climate-driven changes in crop yields
+587,Climate-driven changes in biodiversity,Climate-driven changes in biodiversity
+588,Changes in the climate system,Climate change
+589,"""Representing feedbacks of driver-impact linkages""",Representing feedbacks of driver-impact linkages
+590,"""Reduced well-being""",Reduced well-being
+591,↑URALSFeb,
+592,Nomadic migration,Migration
+593,Conflict number,Conflict number
+594,Northward migration,Migration
+595,Southward migration,Migration

@@ -1,0 +1,1330 @@
+﻿data,count
+survey data,61
+patient-level data,55
+demographic data,42
+satellite data,21
+questionnaire data,16
+household data,11
+population data,10
+age data,9
+study design,9
+categorical variable,9
+continuous variable,9
+census data,7
+mean,7
+temperature data,7
+sample size,7
+standard deviation,6
+socioeconomic data,6
+categorical data,6
+rainfall data,5
+frequency,5
+clinical data,5
+year of publication,5
+descriptive statistic,4
+statistical analysis,4
+sociodemographic data,4
+precipitation data,4
+numerical data,4
+percentage,4
+spatial data,4
+median,4
+gps coordinate,4
+gdp,4
+statistical analysis data,4
+education level data,4
+sex data,4
+gi data,4
+laboratory data,4
+surveillance data,3
+sociodemographic variable,3
+household income data,3
+table,3
+hiv data,3
+ecological data,3
+risk factor,3
+study data,3
+educational attainment data,3
+self-reported data,3
+proportion,3
+secondary data,3
+occupation data,3
+meteorological data,3
+health data,3
+socio-demographic data,3
+clinical information,3
+odds ratio,3
+sociodemographic characteristic,3
+transcript,3
+household-level data,3
+raw data,3
+employment data,3
+genomic data,3
+population,3
+income data,3
+database data,3
+panel data,3
+gdp per caput,3
+geographic data,2
+education data,2
+p value,2
+hiv prevalence data,2
+anova result,2
+individual-level data,2
+household characteristic,2
+epidemiological data,2
+population census data,2
+prevalence data,2
+sex,2
+dalys,2
+anonymized data,2
+demographic variable,2
+statistical data,2
+blood sample,2
+self-report data,2
+funding information,2
+socio-economic data,2
+hiv status,2
+hiv test result,2
+data,2
+study setting,2
+numeric data,2
+chi-square test,2
+environmental data,2
+medical record data,2
+incidence data,2
+geospatial data,2
+household condition data,2
+household income,2
+continuous data,2
+economic data,2
+religion data,2
+binary variable,2
+household survey data,2
+shapefiles,2
+frequency count,2
+wealth index data,2
+marital status data,2
+employment status data,2
+socio-demographic characteristic,2
+socioeconomic status data,2
+excel spreadsheet,2
+frequency data,2
+api data,2
+fever data,2
+sequence data,2
+clinical characteristic,2
+bmi data,2
+age,2
+prevalence,2
+abstract,2
+anthropometric data,2
+educational level data,2
+year,2
+primary data,2
+time-series data,2
+population density,2
+sample size data,2
+chi-square test result,2
+demographic characteristic,2
+statistical yearbook data,2
+publicly available datasets,2
+mortality data,2
+inflation,2
+life expectancy,2
+survey,2
+observation,2
+surface temperature data,2
+gdp data,2
+energy consumption data,2
+temperature,2
+time series,2
+satellite-based observation,2
+time series data,2
+weather station data,2
+instrumental data,2
+p-values,2
+co2 emission data,2
+de-identified data,2
+participant data,2
+quantitative variable,2
+hiv-related stigma and discrimination data,1
+demographic data (age,1
+gender),1
+participant home address data,1
+environmental measure data,1
+psychosocial-hazard score,1
+rate of violent crime,1
+rate of shooting,1
+rate of unemployment,1
+rate of certain type of call for service,1
+percentage of household below the poverty line,1
+liquor store density,1
+percentage of property vacant or abandoned,1
+data from baltimore neighborhood indicator alliance,1
+electronic health record (ehr) data,1
+mixed effect model data,1
+redcap electronic data capture tool data,1
+sdoh data,1
+biomarker data,1
+cd4 cell count data,1
+cd8 cell count data,1
+body mass index data,1
+mean corpuscular volume data,1
+call to a national telephone helpline,1
+online symptom checker,1
+gp consultation,1
+ambulance dispatch call,1
+emergency department attendance,1
+key syndrome national and regional trend,1
+automated statistical outbreak detection algorithm,1
+syndromic surveillance system data.,1
+lifestyle variable,1
+tb risk factor,1
+residential postcode,1
+office for national statistic data,1
+small-area index of multiple deprivation (imd),1
+satellite data (none mentioned but implied a a type of data),1
+patient-level data (none mentioned but implied a a type of data),1
+xpert mtb/rif ultra assay result,1
+rank sum test,1
+dna fingerprinting,1
+house ownership data,1
+availability of electricity in the house data,1
+source of drinking water data,1
+fuel used for cooking data,1
+interquartile range data,1
+parity data,1
+duration on treatment data,1
+duration on art use data,1
+hiv status disclosure data,1
+type of contraceptive used data,1
+antiretroviral treatment data,1
+tuberculosis surveillance data,1
+quarterly gdp data,1
+software usage data,1
+hemoglobin concentration data,1
+travel time data,1
+malaria data,1
+r-scripts,1
+literature value,1
+dhs28 data,1
+birthweight data,1
+household socioeconomic status score,1
+malaria infection data,1
+dietary variable,1
+physical activity level data,1
+triglyceride level,1
+hdl level,1
+ldl level,1
+tc level,1
+daily mortality data,1
+statistical relationship,1
+country-specific data,1
+socio-economic scenario,1
+temperature and rainfall pattern,1
+world bank projection,1
+remote sensing data,1
+socioeconomic covariates,1
+soil data,1
+water and sanitation data,1
+eligibility database,1
+health care utilization database,1
+prescription record,1
+long-term care insurance database,1
+healthcare provider database,1
+national health screening database,1
+anonymized and de-identified data,1
+survival analysis data,1
+pill count data,1
+socio-demographic characteristic data,1
+hiv-related and clinical important variable data,1
+household ecology data,1
+dengue awareness data,1
+monthly income data,1
+source information data,1
+water accumulation spot data,1
+presence of cooler data,1
+number of people in the family data,1
+estimated income data,1
+race data,1
+permanent population data,1
+quantitative data,1
+epidemiological indicator,1
+operational indicator,1
+pgdp,1
+nhi,1
+nht,1
+nb,1
+npr,1
+npp,1
+nmp,1
+ngp,1
+y,1
+interview information,1
+psychosocial data,1
+depressive symptom data,1
+incidence rate data,1
+mortality rate data,1
+riskesdas data,1
+village survey (podes) data,1
+household expenditure,1
+occupation,1
+education level,1
+self-reports of chronic disease,1
+smoking behaviour,1
+alcohol use,1
+physical activity,1
+number of people living in the house data,1
+residence place data,1
+number of people who are working data,1
+situation data,1
+average time spending out of home data,1
+night spending in working place data,1
+hour pending out of home for walking data,1
+hour spending in farm for working data,1
+source of water supply data,1
+sewage disposal system data,1
+sleeping under mosquito net data,1
+sleeping out of home data,1
+using insecticide data,1
+using insect replants data,1
+type of window data,1
+using curtain in front of window and door data,1
+material used to construct wall and roof data,1
+number of room data,1
+number of people in bedroom data,1
+distance of river from house data,1
+distance of farm from house data,1
+keeping pet in house data,1
+animal around the house data,1
+distance of water source from house data,1
+kind of water supply data,1
+secondary retrospective data,1
+epidemiological surveillance data,1
+wildlife survey,1
+livestock survey,1
+human serological survey,1
+ecological knowledge,1
+biological data,1
+social data,1
+geographic feature,1
+birth year data,1
+mothers' educational attainment data,1
+biomarker collection data,1
+microscopy test result,1
+postcode data,1
+tax year data,1
+study recruitment period data,1
+imd-2015 data,1
+decile of deprivation data,1
+qft-git test result data,1
+t-spot.tb test result data,1
+self-reported address,1
+google location service data,1
+individual tb test data,1
+nhls data,1
+population number,1
+district health barometer data,1
+geographic coordinate data,1
+spirometric result,1
+medical history data,1
+exposure assessment data,1
+smoking and alcohol usage data,1
+interval categorical data,1
+ordinal categorical data,1
+mode,1
+range,1
+variance,1
+standard error,1
+coefficient of variation,1
+normally distributed data,1
+t test result,1
+tukey's multiple-comparison test result,1
+hormone level data.,1
+socio-economic variable,1
+pearson linear correlation,1
+descriptive analysis,1
+log-transformed data,1
+health service data,1
+constant proportion transformation model data,1
+symptom,1
+mean and standard deviation,1
+median and interquartile range,1
+iu/ml,1
+mm,1
+infectivity score,1
+type of exposure score,1
+duration of contact score,1
+duration of symptom score,1
+genotyping data,1
+rflp data,1
+social risk factor data,1
+income level data,1
+electricity access data,1
+toilet access data,1
+house size data,1
+hiv/art status data,1
+enumeration area data,1
+de-identified dataset,1
+data linkage,1
+patient medical chart,1
+behavioral factor,1
+cd4 cell count,1
+electronic database system (dhis ii),1
+microsoft excel,1
+stata version 14.0,1
+physical exam data,1
+covid-19 data,1
+tb data,1
+leprosy data,1
+geocoordinates,1
+infectious disease reporting system data,1
+smear microscopy diagnosis result,1
+career data,1
+permanent residence data,1
+current residence data,1
+diagnosis month data,1
+blood glucose result,1
+socio-demographic factor,1
+associated variable,1
+intestinal helminth co-infection data,1
+binary logistic regression analysis data,1
+95% confidence interval data,1
+household condition,1
+wash facility exposure to animal,1
+socio-economic characteristic,1
+fecal sample,1
+parasitological assessment data,1
+biomarker analysis,1
+biochemical data,1
+national system of notifiable disease data,1
+department of informatics of the unified health system data,1
+institute of geography and statistic data,1
+manuscript,1
+spreadsheet,1
+figure,1
+paper,1
+supplementary information file,1
+name of the first author,1
+year of study,1
+number of hbv-positive case,1
+administrative region,1
+study group,1
+screening method,1
+sampling technique,1
+associated factor (multiple sexual partner,1
+a family with chronic liver disease,1
+exposure to body fluid,1
+tattooing,1
+abortion,1
+hiv,1
+sharp needle injury,1
+hbv vaccination,1
+history of blood transfusion,1
+and condom use),1
+genomic dna,1
+snp,1
+allele frequency,1
+genotype frequency,1
+logistic regression analysis,1
+demographic characteristic (age,1
+bmi),1
+baseline egfr,1
+duration of hiv infection,1
+protease inhibitor therapy,1
+antiretroviral treatment,1
+serum creatinine,1
+protein,1
+glucose,1
+phosphate,1
+uric acid,1
+creatinine,1
+rbp level,1
+nag level,1
+continuous and normally distributed variable,1
+students’ t-test result,1
+bivariate analysis result,1
+written informed consent forms.,1
+confidence interval,1
+hazard ratio,1
+relative risk,1
+population attributable fraction,1
+research grant,1
+study protocol registration,1
+literature review,1
+cancer incidence,1
+mortality risk,1
+standardized observation form,1
+newcastle-ottawa scale,1
+global health data exchange,1
+observational data,1
+hiv information source data,1
+american community survey data,1
+dna,1
+sequence,1
+elisa result,1
+mosquito data,1
+pubmed,1
+google scholar,1
+web of science,1
+popline,1
+embase,1
+wholis database,1
+reference list from article,1
+grey literature,1
+mesh-terms,1
+tables.,1
+anonymized retrospective data,1
+routine collected data,1
+national standardized monitoring tool data,1
+tb register data,1
+paper based register data,1
+plasma viral load,1
+pcr,1
+antibody test,1
+screening test result,1
+blood sample data,1
+laboratory inspection data,1
+baseline data,1
+pilot-tested structured questionnaire data,1
+household-level information,1
+accessibility to screening program data,1
+household enumeration,1
+audio-recordings,1
+capillary blood sample data,1
+routine hiv care and treatment data,1
+deidentified dataset,1
+individual level data,1
+count,1
+interquartile range,1
+logistic regression analysis data.,1
+secondary source of data,1
+anonymous blood specimen collection and analysis data,1
+lifetime sexual partner data,1
+recent sexual activity data,1
+child alive data,1
+educational status data,1
+access to electricity and television data,1
+caste data,1
+place of residence data.,1
+gni per caput data,1
+daly rate,1
+age-standardized data,1
+concentration curve data,1
+world bank classification datasets,1
+wealth index,1
+binary categorical data,1
+educational variable,1
+engagement in paid work,1
+orphanhood status,1
+parasitological test result,1
+individual datasets,1
+hiv dataset,1
+anthropometric information,1
+anemia data,1
+asrs,1
+image data,1
+personal data,1
+demographic information,1
+medical information,1
+descriptive analysis data,1
+explanatory analysis data,1
+regression model data,1
+r software,1
+annual incidence rate,1
+gbd 2021 database,1
+global health data exchange (ghdx) query tool,1
+mortality rate,1
+risk factor data,1
+fisher's exact test,1
+univariate and multivariate logistic regression,1
+spreadsheet data,1
+individual health status data,1
+healthcare cost data,1
+climate risk index data,1
+urban statistical data,1
+daily observational data,1
+micro-level data,1
+rdt data,1
+pcr data,1
+microscopy data,1
+socio-economic survey data,1
+mosquito count,1
+blood slide data,1
+filter paper sample data,1
+household information,1
+socioeconomic characteristic,1
+annual income,1
+standardized score,1
+gps data,1
+demographic and health survey data,1
+operational plan data,1
+world bank data,1
+citation,1
+sample that wa studied,1
+adherence rate to chemoprophylaxis,1
+predictor of actual or intended adherence,1
+self-reported reason for actual or intended adherence,1
+quality assessment grade,1
+socio-economic status data,1
+socio-economic status factor score data,1
+entomological inoculation rate data,1
+presence/absence data of anopheline larva,1
+anonymized and untraceable data,1
+nutrition data,1
+recognized malaria indicator,1
+haemoglobin concentration data,1
+electronic data capture tool,1
+dna extract,1
+pcr amplification,1
+antibody assay,1
+laboratory work,1
+clinical guideline,1
+research electronic data capture (redcap) data,1
+metadata-driven methodology and workflow process data,1
+land surface reflectance product data,1
+individual- and household-level information,1
+house construction information,1
+malaria prevalence data,1
+aggregated data,1
+deidentified individual data,1
+cluster data,1
+health indicator,1
+written consent data,1
+thermometer data,1
+auxiliary body temperature data,1
+structured data,1
+study participant data,1
+slide result data,1
+house structure data,1
+roof material data,1
+floor material data,1
+visible hole data on wall data,1
+irs spraying data,1
+llins ownership data,1
+mosquito breeding site data,1
+household wealth index score,1
+percentage distribution data,1
+mean with standard deviation,1
+paper-based questionnaire data,1
+sociodemographic factor data,1
+housing characteristic data,1
+clinical symptom data,1
+malaria preventive measure data,1
+frequency and percentage data,1
+median (interquartile range) data,1
+categorical age group data,1
+behavioral characteristic data,1
+knowledge data,1
+attitude data,1
+practice data,1
+key informant interview data,1
+structured face-to-face interview questionnaire data,1
+demographic and health survey (dhs) program data,1
+shape file,1
+hemoglobin count data,1
+survey variable,1
+malaria rapid diagnostic test (rdt) result,1
+household listing,1
+gross domestic product (gdp) data,1
+monte carlo simulation data,1
+author detail,1
+socioeconomic variable,1
+body mass index (bmi) data,1
+promis global t-score value,1
+binary logistic regression analysis result,1
+dataset,1
+questionnaire,1
+gbd database,1
+vital statistic,1
+census,1
+health outcome,1
+socio-demographic index (sdi) value,1
+education,1
+good governance,1
+globalization,1
+hiv prevalence rate,1
+physicians' rate,1
+infant and child mortality rate,1
+public health expenditure,1
+number of event,1
+odds ratio (or) with 95% confidence interval (ci),1
+first author last name,1
+prevalence of alcohol use disorder,1
+tool used for assessment,1
+associated factor,1
+clinical record,1
+satellite (none),1
+survey (none),1
+stool sample,1
+pcr result,1
+gps reading,1
+fever onset data,1
+epidemiological curve,1
+existing data,1
+model selection table,1
+house-level infestation data,1
+ndvi normalized difference vegetation index,1
+archaeological information,1
+transmission data,1
+tb infection control data,1
+nonlinear pattern,1
+resistance gene sequence analysis,1
+is6110 and polymorphic repetitive sequence typing result,1
+qualitative classification,1
+comorbidity data,1
+frequency of cold,1
+bcg scar data,1
+history of tuberculosis,1
+history of tuberculosis in family,1
+relationship with the index case,1
+degree of closeness,1
+expert assessment,1
+stakeholder assessment,1
+intervention,1
+diagnostic strategy,1
+quantitative comparative analysis,1
+article,1
+record,1
+percentage data,1
+simulation model,1
+humidity data,1
+case data,1
+percentage area covered by forest data,1
+primary author,1
+study area,1
+demographic characteristic (age and sex),1
+laboratory profile (parasite count,1
+haemoglobin,1
+leucocyte count,1
+etc.),1
+geographical coordinate,1
+notification data,1
+disease surveillance data,1
+case notification data,1
+clinical classification data,1
+social vulnerability indicator,1
+rdt positivity data,1
+summary statistic,1
+logistic regression data,1
+environmental situation data,1
+travel history data,1
+malaria attack history data,1
+exposure,1
+study method,1
+outcome,1
+number of participant with and without the event (ltfu),1
+statistical analysis software material,1
+national funding data,1
+funding project data,1
+epidemiology data,1
+machine learning algorithm,1
+nationality data,1
+risk ratio,1
+highest posterior density,1
+gender,1
+domain,1
+sampling method,1
+indicator of malaria and sep,1
+covariates,1
+limitation,1
+deep learning,1
+itn use,1
+hh size,1
+house construction,1
+child with current fever,1
+asset index,1
+altitude,1
+monthly rain,1
+irs use,1
+wtp elicitation,1
+field data,1
+supporting document,1
+reinforcement learning,1
+health variable,1
+water data,1
+fly density data,1
+family income data,1
+student registration book data,1
+job history,1
+chest x-ray reading,1
+logistic regression analysis data,1
+particulate matter (pm2.5 and pm10),1
+sulfur dioxide (so2),1
+nitrogen oxide (nox),1
+volatile organic compound (vocs),1
+oxygenated compound (o3),1
+carbon monoxide (co),1
+open-source data,1
+population-based cohort data,1
+substance use data,1
+human trafficking data,1
+sex work data,1
+sampling procedure data,1
+depression data,1
+research quality data,1
+meteorological dataset,1
+hospitalization count,1
+daily mean temperature,1
+gross domestic product,1
+face-to-face interview data,1
+tablet data,1
+asset and livestock ownership data,1
+education and occupation data,1
+indicator data,1
+kap study data,1
+maximum likelihood estimator (mle) data.,1
+kruskalwallis test result,1
+generalized linear regression model output,1
+body mass index (bmi),1
+gps position,1
+elevation data,1
+paper form,1
+custom access database,1
+stata format,1
+r software data,1
+mass package data,1
+glm package data,1
+rcmdr package data,1
+ggplot2 package data,1
+ggpbur package data,1
+qgis 3.10 software data,1
+kernel density estimate,1
+logistic regression,1
+socio-economic status (ses) data,1
+seroprevalence data,1
+entomological transmission index,1
+socioeconomic information,1
+knowledge attitude and practice (kap) variable,1
+house index (hi),1
+container index (ci),1
+breteau index (bi),1
+demographic index (di),1
+built-up data,1
+property tax score,1
+wealth indicator,1
+entomological data,1
+blood sample from individual,1
+geographic coordinate,1
+intensity data,1
+geographical data,1
+behavioural data,1
+relative spatial data,1
+person-level data,1
+serosurvey data,1
+case information,1
+address information,1
+geo-data,1
+socioeconomic environment variable,1
+climatic variable,1
+birth weight z-score,1
+gestational age,1
+s data,1
+food insecurity data,1
+employee data,1
+questionnaire form data,1
+imaging examination,1
+drug susceptibility testing,1
+sputum culture,1
+symptom data,1
+sputum test result,1
+radiograph data,1
+treatment data,1
+archetype study,1
+area and region data,1
+household amenity data,1
+health service utilization data,1
+medium utilization data,1
+educational data,1
+socioeconomic status index,1
+satellite data (none mentioned),1
+computational detail,1
+model fit evaluation,1
+consent document,1
+project information sheet,1
+database.,1
+patient record,1
+frequency table,1
+bar chart,1
+z-scores,1
+muac,1
+edema,1
+training data set,1
+elevation,1
+s index,1
+eigenvector coefficient,1
+qualitative study data,1
+open access article data,1
+publicly accessible texas data repository data,1
+population estimate,1
+atlasplus data,1
+american fact finder data,1
+5-year estimate,1
+cdc data,1
+behavioral data,1
+blood sample for hiv testing,1
+igg-capture bed-enzyme immunoassay data,1
+behavioral variable data,1
+continuous measure,1
+blood test result,1
+hiv survey data,1
+questionnaire item,1
+domestic and dyadic characteristic,1
+household indicator,1
+verbal autopsy (va) interview,1
+docket data,1
+study author,1
+publication year,1
+study period,1
+study location,1
+the relevant research question the paper or report addressed,1
+excel file,1
+mesh term,1
+free text term,1
+boolean connector,1
+chi square data,1
+coordinate,1
+picture data,1
+sleeping structure data,1
+interview data,1
+biomarker testing data,1
+study design data,1
+validated training data,1
+publication year data,1
+region data,1
+physical parameter,1
+spirometry data,1
+point data,1
+polygon data,1
+census tract database,1
+spatial analysis tool,1
+r language package,1
+binary data,1
+cartographic street map,1
+canine data,1
+indicator combination,1
+vegetation data,1
+water body data,1
+interview transcript,1
+quote,1
+ecological covariates,1
+socio-demographic covariates,1
+infection prevalence and intensity,1
+statistical predictor,1
+high-dimensional data set,1
+xlsx data,1
+do file data,1
+recorded live birth report,1
+annual general household survey,1
+subnational human development database,1
+challenge,1
+author,1
+country,1
+research information,1
+audio recording,1
+verbatim transcript,1
+thematic framework,1
+codebook,1
+matrix data,1
+anonymous secondary source,1
+computed tomography scan,1
+binary logistic regression,1
+semi-structured interview protocol data,1
+rapid test result for syphilis,1
+hiv and hcv,1
+housing status data,1
+primary drug problem data,1
+suicidal ideation data,1
+psychotic symptom data,1
+safer sex practice data,1
+case report,1
+registered case data,1
+ecological information,1
+pattern detection,1
+genetic data,1
+snp data,1
+sequence alignment/map format data,1
+self-reported questionnaire,1
+hiv infection record,1
+secondary cross-sectional data,1
+non-numeric information,1
+longitudinal study data,1
+financial data,1
+hiv screening and testing data,1
+qualitative variable,1
+average annual income data,1
+proportion of household not using preventive measure data,1
+smoking habit,1
+drinking habit,1
+body weight,1
+height,1
+diabetes diagnosis,1
+sign and symptom,1
+chest x-ray screening history,1
+attendance at medical facility,1
+bmi,1
+report data,1
+data on asthma prevalence and severity,1
+data from the global asthma network,1
+disease data,1
+hdi,1
+debt,1
+behavioral risk information,1
+unemployment,1
+arable land,1
+urban population,1
+percentage of agriculture's dependency for gdp,1
+number of radio,1
+glasod,1
+mortality rate of under five year old,1
+physician,1
+hospital bed,1
+manually recorded data,1
+calorie supply per person,1
+access to sanitation,1
+safe water,1
+population growth,1
+urban growth,1
+age dependency ratio,1
+country-level data,1
+annual data,1
+imputed migration data,1
+climate data at the grid-cell-level,1
+ground frost frequency,1
+cloud cover,1
+potential evapotranspiration,1
+value added in agriculture,1
+standardized form data,1
+global hectare per caput,1
+kwh per caput,1
+% of gdp,1
+constant 2010 us$,1
+% of the total population,1
+statistic data,1
+demographic and socioeconomic statistic,1
+climate data,1
+gridded daily datasets,1
+probabilistic projection,1
+emda t data,1
+desinventar data,1
+munich re/swiss re estimate,1
+flood depth data,1
+monetary unit,1
+life-years lost data,1
+public database,1
+physical knowledge,1
+uncertainty level,1
+error bar,1
+precipitation change,1
+aggregate data,1
+micro-data,1
+dhs data,1
+economic activity data,1
+crop choice data,1
+agricultural production data,1
+income and expenditure data,1
+geolocator information,1
+remote sensing variable,1
+discrete variable,1
+eqd data,1
+prospective cohort study data,1
+meta-analysis data,1
+cancer diagnosis data,1
+diabetes data,1
+cardiovascular disease data,1
+body composition data,1
+keywords,1
+reference,1
+article title,1
+regression data,1
+conceptual data,1
+analytical data,1
+empirical data,1
+instrumental variable regression data,1
+cross-sectional data,1
+principal component analysis data,1
+structural equation modelling data,1
+machine learning data.,1
+model output,1
+database-entered data,1
+geological data,1
+temperature record,1
+secure password-protected database data,1
+world bank database,1
+unctad database,1
+time series econometrics data,1
+satellite account data,1
+air pollution data,1
+traffic volume data,1
+socio-economic factor,1
+weather condition,1
+binary variable (teleworking),1
+soil factor variable,1
+magnetic value,1
+text,1
+box plot,1
+percentile,1
+knowledge,1
+information,1
+state,1
+asset,1
+context,1
+need,1
+encrypted data,1
+r&d expenditure,1
+emission data,1
+psychological distress,1
+broad money data,1
+co2 emission,1
+cumulative co2,1
+energy use,1
+bioenergy,1
+nuclear energy,1
+input data,1
+scenario data,1
+ac data,1
+poverty data,1
+unemployment data,1
+social security income data,1
+extractive sector employment data,1
+service sector employment data,1
+pca component,1
+median rent data,1
+median home value data,1
+brain region,1
+psychological variable,1
+mental state,1
+stimulus type,1
+method type,1
+patient data,1
+wind speed data,1
+gridded daily dataset,1
+r statistical software data,1
+enrollment data,1
+simulation data,1
+index,1
+sensor data,1
+measurement value,1
+reanalysis data,1
+sea ice extent data,1
+pressure data,1
+atmospheric circulation data,1
+ipums data,1
+migration flow data,1
+population projection,1
+gldas data,1
+nasa's earth science division data,1
+ferret program data,1
+qgis software data,1
+water quality data,1
+confidence interval data,1
+risk ratio data,1
+ice core measurement,1
+temperature proxy,1
+historical record,1
+instrumental record,1
+book excerpt,1
+article excerpt,1
+research paper,1
+conference proceeding,1
+online article,1
+sst,1
+air temperature,1
+geopotential height,1
+zonal wind speed,1
+net air-sea heat flux,1
+2 m maximum air temperature,1
+ocean heat content,1
+temperature profiles.,1
+years-of-education data,1
+gwas data,1
+exome sequencing data,1
+cardiovascular trait data,1
+ptsd data,1
+fmri dataset,1
+uber pick-up data,1
+temperature observation,1
+brain activity signal,1
+regression analysis data,1
+wolf abundance data,1
+moose abundance data,1
+bird abundance data,1
+risk analysis,1
+none,1
+democ data,1
+kflow data,1
+skill data,1
+surp data,1
+depen data,1
+soe data,1
+debt data,1
+trade data,1
+welf data,1
+urban–rural access to public good,1
+sitc2 category,1
+ssta,1
+model simulation,1
+fdi inflow relative to gdp,1
+fdi outflow relative to gdp,1
+population size,1
+democracy index,1
+climate-related disaster (floods,1
+storms),1
+contextualized data,1
+historical data,1
+social phenomenon,1
+empirical analysis,1
+predictor variable,1
+conceptual tool,1
+instrument-based temperature series,1
+proxy data,1
+surface temperature observation,1
+measurement,1
+dengue incidence data,1
+medical history,1
+cognitive capacity and hearing data,1
+computerised assessment data,1
+lifestyle data,1
+precipitation,1
+seed data,1
+crop data,1
+yield data,1
+government-reported data,1
+regression model,1
+input-output model,1
+risk difference data,1
+publicly available anonymized data,1
+lake level,1
+ice cover,1
+sea level,1
+air photo,1
+map,1
+time line,1
+soil and vegetation survey,1
+risk assessment,1
+swot analysis,1
+household and individual asset survey,1
+seasonal calendar,1
+livelihood diagram,1
+ranking of asset,1
+resource mapping,1
+venn diagram,1
+institutional history,1
+flow chart,1
+key informant interview,1
+actor-network analysis,1
+social mapping,1
+stakeholder analysis,1
+statistic,1
+income and expenditure interview and ranking,1
+msa data,1
+county and city data book,1
+fbi data,1
+nces common core of data,1
+museum county business pattern data,1
+county business pattern data,1
+u patent and trademark office data.,1
+un data,1
+historical 2-year period data,1
+infant mortality rate,1
+child mortality rate,1
+real per caput gdp: ppp,1
+macro data,1
+penn world table version 6.2,1
+world development indicator,1
+maternal report,1
+registry data set,1
+blood test,1
+lung capacity reading,1
+anthropometric measure,1
+wind speed,1
+log gdp per caput,1
+ground-based observation,1
+ship-based observation,1
+aerial-based observation,1
+county-by-year observation,1
+regional economic information system (reis) data,1
+bureau of economic analysis (bea) data,1
+gross state product (gsp) data,1
+nominal gsp data,1
+real gsp series,1
+consumer price index (cpi),1
+state-level economic activity data,1
+sectoral output data,1
+annual growth rate,1
+employment data.,1
+rainfall pattern data,1
+globalization index,1
+economic growth data,1
+natural resource rent,1
+gdp per caput data,1
+renewable energy consumption per caput data,1
+annual and unbalanced data,1
+average temperature data,1
+growth rate,1
+prevalence of undernourishment,1
+country-speciﬁc data,1
+environmental feature,1
+socio-economic indicator,1
+experimental data,1
+blood oxygen level data,1
+spike-based data,1
+temporal variability data,1
+interspike interval data,1
+lattice site,1
+number of site,1
+probability,1
+area fraction,1
+cape,1
+dryness parameter,1
+transition rate,1
+modis fire count,1
+enso index,1
+mjo phase,1
+meteorological index,1
+fire hotspot activity,1
+smoke optical depth,1
+normalized fire signal,1
+normalized precipitation signal,1
+90-day average precipitation.,1
+climate model data,1
+observational daily data,1
+surface downwelling shortwave radiation data,1
+documentary source,1
+historical flood data,1
+systematic flood record,1
+numerical record,1
+pictorial information,1
+code availability data,1
+laboratory test result,1
+government guideline,1
+document,1
+report,1
+accord,1
+treaty,1
+formula,1
+policy file,1
+article search result,1
+data extraction,1
+manuscript writing,1
+self-reported mental health symptom or diagnosis,1
+socio-economic class data,1
+title and abstract screening,1
+clinical diagnosis data,1
+measurable feature,1
+historical map,1
+tree-ring data,1
+sedimentation data,1
+tax record,1
+oral history,1
+reanalysis datasets,1
+code availability,1
+era-interim data,1
+supplement,1
+historical flood & drought record,1
+lake surface area variation,1
+dust storm,1
+ice core,1
+lake sediment,1
+isic i category,1

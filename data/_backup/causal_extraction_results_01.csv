@@ -1,0 +1,283 @@
+﻿paper_id,cause,effect,description,effect_polarity,edge_label
+10.1007_s10461-020-03068-w,COVID-19 stressors,"""psychological distress""","""The total indirect effect of institutional support together with resilience was statistically significant.""","""Negative""","""partially_mediates"""
+10.1007_s10461-024-04280-8,Drought,"""Heat-related illnesses""","""Drought causes heat-related illnesses.""","""Positive""","""causes_heat_related_illnesses"""
+10.1007_s10461-024-04280-8,Drought,"""Altered patterns of vector-borne and water-borne diseases""","""Drought alters patterns of vector-borne and water-borne diseases.""","""Positive""","""alters_disease_patterns"""
+10.1007_s10461-024-04280-8,Climate change,"""Poverty""","""Climate change leads to millions of people in SSA falling into poverty.""","""Positive""","""leads_to_poverty"""
+10.1007_s10461-024-04280-8,Extreme weather events,"""Decreased food yields""","""Extreme weather events cause decreased food yields.""","""Positive""","""causes_food_yield_decrease"""
+10.1007_s10461-024-04280-8,Drought,"""Povety and food insecurity""","""Drought increases poverty and food insecurity.""","""Positive""","""increases_poverty_food_insecurity"""
+10.1007_s10461-024-04318-x,IPV,"""Emotional IPV experience""","""Female patients presenting with current or past IPV may be assigned to a social worker with additional counseling training; referrals may be made to a local domestic violence non-profit organization.""",Positive,ipv_assigns_counseling_service
+10.1007_s10461-024-04358-3,HIV-related stigma and discrimination,Mental well-being,Experiences of HIV stigma/discrimination have affected mental well-being negatively.,Negative,has_negative_impact_on
+10.1007_s10461-024-04358-3,HIV status has impacted sexual life negatively,Mental health disorder,HIV status has impacted sexual life negatively.,Positive,negatively_affects
+10.1007_s10461-024-04358-3,HIV status has impacted the ability to engage in social relationships negatively,Mental health disorder,HIV status has impacted the ability to engage in social relationships negatively.,Positive,negatively_affects
+10.1007_s10461-024-04413-z,Subjective safety,Neglect of condom use,"A lack of subjective safety, combined with stressful events and negative mood, might predict or even cause HIV transmission-risk behavior.",Negative,negatively_affects_transmission_risk_behavior
+10.1007_s10461-024-04413-z,Objective hazard,Neglect of condom use,The opposing directions of the two effects reflect our arbitrary choice to code objective hazard and subjective safety rather than coding both as hazard (or both as safety).,Positive,positively_associated_with_transmission_risk_behavior
+10.1007_s10461-025-04630-0,Age,"""Being at risk for financial resource strain""",Participants with age < 30 were more likely to be at risk for financial resource strain.,Negative,risk_of_financial_resource_strain
+10.1017_S0950268822000103,None/primary,Underweight,"BMI was graded as: underweight (<18.5 kg/m2), normal (18.5– 24.9 kg/m2) and overweight (≥25.0 kg/m2)[ 16].",Positive,bmi_grade
+10.1017_S0950268822000103,Ever smoked,Tobacco use history,History of tobacco use... Ever smoked 1.83 0.98 3.43 0 0.060,Unknown,tobacco_use_history
+10.1017_S0950268822000103,HIV positive,Anaemia risk,Malaria infection was confirmed using thick blood smears and/or rapid diagnostic antigen tests (SD BIOLINE Malaria Ag...,Positive,hiv_positive_risk
+10.1017_S0950268823000444,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1017_S0950268823000444,Localised public health threats,Public health impacts,Accounting for confounding spatial or temporal factors that may bias results requires careful research that takes time and thus cannot produce the rapid assessments required by decision makers.,Unknown,is_relevant_to
+10.1038_s41598-020-62667-8,education level,employment opportunities and income,"We assumed that educational level affects employment opportunities and income in later life, and through these...",Positive,affects_employment_and_income
+10.1038_s41598-020-62667-8,education level,area-level deprivation at the place of residence,The educational level and socio-economic status may also affect risk of tuberculosis via other pathways not measured in this study.,Both,affects_area_deprivation
+10.1038_s41598-020-73490-6,Marital status,Single experience unintended pregnancy,Women who were single were more likely to experience unintended pregnancy.,Negative,single_experience_unintended_pregnancy
+10.1038_s41598-021-85781-7,Monthly average sunshine duration,"""Incidence of tuberculosis""",The corresponding relative risks increase by 1.8% (95% CI 0.1–3.4%) and 2.5% (95% CI 1.1–4.0%) when the variable increases by one unit.,Positive,increases_tuberculosis
+10.1038_s41598-021-85781-7,Monthly per capita GDP,"""Incidence of tuberculosis""",The corresponding relative risks increase by 1.4% (95% CI 0.6–2.3%) and 2.5% (95% CI 1.1–4.0%) when the variable increases by one unit.,Positive,increases_tuberculosis
+10.1038_s41598-021-85781-7,Mean temperature,"""Incidence of tuberculosis""",The posterior means of the regression coefficients are − 0.045 and the relative risks reduce by 4.4% (95% CI 3.1–5.8%) when the variable increases by one unit.,Negative,reduces_tuberculosis
+10.1038_s41598-021-85781-7,Mean air pressure,"""Incidence of tuberculosis""",The posterior means of the regression coefficients are − 0.268 and the relative risks reduce by 23.3% (95% CI 12.5–33.6%) when the variable increases by one unit.,Negative,reduces_tuberculosis
+10.1038_s41598-021-94289-z,Lower promiscuity from 1980 onwards,Median HIV incidence,Changing the weight for the number of relationships a person already has was changed from 0 to − 0.05.,Negative,intervenes_to_reduce_hiv_incidence
+10.1038_s41598-021-94289-z,The proportion of male pending short links that are fulfilled by females,Median HIV incidence,The proportion of male pending short links that are fulfilled by females was changed from 1 to 0.7.,Negative,intervenes_to_reduce_hiv_incidence
+10.1038_s41598-021-95959-8,SES,"""malaria infection""",The SES had a linear relationship and therefore was modelled using a simple parametric term.,Positive,influences_malaria_infection
+10.1038_s41598-021-95959-8,age,"""malaria infection""","u, with basis function following a Gaussian process.",Unknown,influences_malaria_infection
+10.1038_s41598-021-95959-8,vegetation density,"""malaria infection""",v(NDVI i) + w (Li),Positive,influences_malaria_infection
+10.1038_s41598-021-96035-x,Household SES,Lower total cholesterol,"Middle − 0.01 (− 0.15, 0.13) − 0.04 (− 0.19, − 0.11)",Negative,low_household_ses_lower_total_cholesterol
+10.1038_s41598-021-96035-x,Household SES,Higher total cholesterol,"High 0.14 (− 0.01, 0.30) 0.10 (− 0.05, 0.26)",Positive,high_household_ses_higher_total_cholesterol
+10.1038_s41598-021-96035-x,Marital status (Single),Lower total cholesterol,"− 0.39 (− 0.65, − 0.12) − 0.32 (− 0.61, − 0.04)",Negative,single_marital_status_lower_total_cholesterol
+10.1038_s41598-021-96035-x,Marital status (Other),Lower total cholesterol,"− 0.30 (− 0.52, − 0.08) − 0.26 (− 0.50, 0.02)",Negative,other_marital_status_lower_total_cholesterol
+10.1038_s41598-021-96035-x,Maternal age group (14–19),Higher total cholesterol,Reference,Unknown,maternal_age_group_higher_total_cholesterol
+10.1038_s41598-021-99156-5,Climate change,Mortality,"Climate change is expected to affect mortality through a number of other, more indirect pathways.",Negative,affects_mortality
+10.1038_s41598-022-06012-1,Sanitation and drinking water facilities,None of the socioeconomic variables were picked during the geostatistical variable selection process,"probable loss of variability as a result of household data aggregation for community analysis; insufficient coverage of water and sanitation resource facilities; Lack of standard and better water, sanitation and hygiene assessment tool leading to information bias; latrine efficiency in containing excreta",Unknown,sanitation_facilities_impact_variable_selection
+10.1038_s41598-024-67909-7,"Dengue knowledge, socio-demographic factors, and ecological conditions in Delhi",Effective dengue control strategies,These factors are crucial for crafting effective dengue control strategies.,Positive,crafts_control_strategies
+10.1038_s41598-024-67909-7,Penalized multivariable logistic regression model,Multicollinearity adjustment,The model effectively adjusted the multicollinearity and selected the most relevant predictors.,Positive,adjusts_multicollinearity
+10.1038_s41598-024-82101-7,Not receiving antiretroviral treatment,"""Completed suicide""","""Not receiving antiretroviral treatment was a significant predictor of completed suicide.""",Negative,not_receiving_antiretroviral_treatment_leads_to_completed_suicide
+10.1038_s41598-024-82101-7,Higher emotional stress,"""Hopelessness""","""High levels of hopelessness were associated with higher emotional stress.""",Both,associated_with
+10.1038_s41598-024-82101-7,HIV infection,"""Suicide""","""HIV infection was a cause of death by suicide.""",Positive,is_a_cause_of
+10.1038_s41598-024-82101-7,Fear of discrimination,"""Suicide""","""Fear of discrimination was a cause of death by suicide.""",Positive,is_a_cause_of
+10.1038_s41598-025-93476-6,Pregnant,Unfavorable outcomes,Pregnancy increases unfavorable outcomes for DM-TB comorbidity.,Positive,increases_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Male sex,Unfavorable outcomes,Male sex is associated with unfavorable outcomes for DM-TB comorbidity.,Positive,associated_with_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Black race/color,Unfavorable outcomes,Black race/color is associated with unfavorable outcomes for DM-TB comorbidity.,Positive,associated_with_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Tuberculosis relapse,Unfavorable outcomes,TB relapse increases unfavorable outcomes for DM-TB comorbidity.,Positive,increases_unfavorable_outcomes
+10.1038_s41598-025-93476-6,HIV-positive status,Unfavorable outcomes,HIV-positive status is associated with unfavorable outcomes for DM-TB comorbidity.,Positive,associated_with_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Alcoholism,Unfavorable outcomes,Alcoholism increases unfavorable outcomes for DM-TB comorbidity.,Positive,increases_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Illicit drug use,Unfavorable outcomes,Illicit drug use increases unfavorable outcomes for DM-TB comorbidity.,Positive,increases_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Smoking,Unfavorable outcomes,Smoking is associated with unfavorable outcomes for DM-TB comorbidity.,Positive,associated_with_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Homelessness,Unfavorable outcomes,Homelessness increases unfavorable outcomes for DM-TB comorbidity.,Positive,increases_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Immigrant status,Unfavorable outcomes,Immigrant status is associated with unfavorable outcomes for DM-TB comorbidity.,Positive,associated_with_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Indigenous identity,Unfavorable outcomes,Indigenous identity increases unfavorable outcomes for DM-TB comorbidity.,Positive,increases_unfavorable_outcomes
+10.1038_s41598-025-93476-6,Government assistance beneficiaries,Unfavorable outcomes,Government assistance beneficiaries are associated with unfavorable outcomes for DM-TB comorbidity.,Positive,associated_with_unfavorable_outcomes
+10.1136_bmjgh-2020-003550,BCG vaccination,"""LTBI""","""No evidence of association between BCG vaccination and LTBI.""",Unknown,has_no_association_with
+10.1136_bmjgh-2020-003550,Recent TB contact,"""LTBI""","""Higher odds of LTBI among individuals with recent TB contact.""",Positive,increases
+10.1136_bmjhci-2024-101179,Number of total screens (dashboard),Number of positive screens (dashboard),The intervention increases the number of positive screens.,Positive,intervention_increases_positive_screens
+10.1136_bmjhci-2024-101179,Number of tests (NHLS),Number of positive tests (NHLS),The intervention increases the number of positive tests.,Positive,intervention_increases_positive_tests
+10.1136_bmjopen-2023-071874,HIV infection,"""Increasing risk of ARI""","""HIV infection is the underlying cause of increasing risk of ARI.""",Negative,increases_risk_of_ari
+10.1136_thoraxjnl-2021-218345,post-TB,Airflow obstruction,Participants gave informed consent to participate in the study before taking part.,Positive,takes_part_in_leads_to_airflow_obstruction
+10.1136_thoraxjnl-2021-218345,"age,sex,region,educational level,smoking history and pack-years,HAP,occupational exposure and history of asthma",Confounding variables,Potential confounders considered were:...,Unknown,is_confounded_by
+10.1186_s12879-020-05304-z,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1186_s12879-020-05304-z,TB outbreaks,Prevalence of DR-TB patients,Several TB outbreaks among students have been recently reported.,Positive,leads_to
+10.1186_s12879-020-4800-y,Simple scoring systems,Study was motivated by,TCS and Infectivity Score were previously proven to reflect TB exposure.,Positive,motivates_study
+10.1186_s12879-020-4800-y,The TCS could not reliably identify individual subjects or families with subclinical TB.,Continued search for host,Needed continued search for a better host diagnostic test.,Positive,needs_continued_search
+10.1186_s12879-020-4828-z,degrees of poverty,"""TB transmission""",Degrees of poverty within low socio-economic setting may contribute to increased TB transmission.,Positive,contributes_to
+10.1186_s12879-020-4924-0,Residing in a high HIV prevalence stratum,"""Being part of an HIV infected couple""","""Residing in a high HIV prevalence stratum was significantly associated with being part of an HIV infected couple.""",Positive,hiv_prevalence_stratum_associated_with_hiv_infection
+10.1186_s12879-021-05967-2,Low education,Unemployment,Low education levels are associated with unemployment...,Negative,low_education_leads_to_unemployment
+10.1186_s12879-021-05967-2,Lower education levels,Poorly paid work,Lower education levels are associated with poorly paid work...,Negative,lower_edu_leads_to_poor_pay
+10.1186_s12879-021-06284-4,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1186_s12879-021-06284-4,TB patients,Psychological distress,TB patients' treatment can lead to psychological distress.,Negative,promotes_distress
+10.1186_s12879-021-06668-6,Less than 200,CD4 counts,Less than 200 CD4 count values were observed.,Negative,has_lower_cd4_count
+10.1186_s12879-021-06668-6,Greater than/equal to 500,Viral load,Participants with greater than/equal to 500 viral load had lower median CD4 counts.,Negative,has_lower_cd4_count
+10.1186_s12879-021-06668-6,No/some primary education,PLWH and syphilis co-infection,Having no/some primary education increased the risk for HIV and syphilis co-infection.,Positive,increases_risk
+10.1186_s12879-021-06668-6,Alcohol consumption,PLWH and syphilis co-infection,Alcohol consumption also increased the risk for HIV and syphilis co-infection.,Positive,increases_risk
+10.1186_s12879-023-08627-9,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1186_s12879-023-08627-9,TB rate,COVID-19 incidence,A higher TB rate had a significant positive effect on COVID-19 incidence.,Positive,tb_rate_accelerates_covid_19
+10.1186_s12879-023-08627-9,Proportion of literacy in neighbourhood,COVID-19 incidence,A higher proportion of literacy in the neighbourhood had a significant positive effect on COVID-19 incidence.,Positive,literacy_increases_covid_19
+10.1186_s12879-023-08627-9,Low monthly income (< minimum wage),COVID-19 incidence,A lower proportion of low monthly income (< minimum wage) had a significant negative effect on COVID-19 incidence.,Negative,low_income_decreases_covid_19
+10.1186_s12879-023-08627-9,Age ≥ 65 years,COVID-19 incidence,A higher age (≥ 65 years) had a significant negative effect on COVID-19 incidence.,Negative,age_increases_decreases_covid_19
+10.1186_s12879-023-08627-9,Covid-19 rate,TB incidence,A higher COVID-19 rate had a significant positive effect on TB incidence.,Positive,covid_rate_accelerates_tb
+10.1186_s12884-025-07735-5,Region,"""Malaria parasitaemia""","""Malaria parasite infection at booking is more common in the Volta region compared to Ashanti.""",Positive,malaria_parasite_infection_at_booking_in_volta_region
+10.1186_s12885-020-06891-5,Chronic inflammation,"""multiple tumour-promoting responses and seeds neoplastic microenvironments""","""Tumour-promoting responses and seeds neoplastic microenvironments caused by chronic inflammation.""","""Positive""",causes_tumour_promotion
+10.1186_s12885-020-06891-5,Tuberculosis infection,"""genome alteration with DNA damage led by oxidative stress""","""Tuberculosis infection leads to genome alteration with DNA damage.""","""Negative""",leads_to_DNA_damage
+10.1186_s12889-019-7997-1,Having a paid employment,Paid employment,Having a paid employment correlates with having a higher level of HIV knowledge and correct answers.,Positive,correlates_with_hiv_knowledge
+10.1186_s12889-019-8036-y,Racial group categories,Health inequalities,"Racial group categories represent a complex set of interconnected historical processes that place people in separate and racially unequal contexts, with unequal social and economic exposures.",Negative,racial_group_categories_impacts_health
+10.1186_s12889-020-08656-y,Aging,DENV infection,Age was found to be a significant risk factor for DENV infection.,Positive,increases_dengue_fever_infection
+10.1186_s12889-020-08656-y,Low income,DENV infection,The final results using logistic regression indicated that low income was significantly associated with DENV infection.,Negative,negatively_affects_dengue_fever_prevention
+10.1186_s12889-020-08656-y,Poor mosquito control,DENV infection,The final results using logistic regression indicated that poor mosquito control was significantly associated with DENV infection.,Positive,increases_dengue_fever_infection
+10.1186_s12889-020-08838-8,many FBWs have children who are partially or fully dependent upon them,Children dependency,Many FBWs raise these children alone without financial support from the fathers.,Negative,rises_to_alone_dependency
+10.1186_s12889-020-08838-8,No restrictions on time period or language were applied.,HIV research,HIV research is conducted without restrictions on time period or language.,Positive,conducted_without_restrictions
+10.1186_s12889-020-08952-7,Having multiple sexual partners,"""T. pallidum infection""",Many young individuals... were more likely to search jobs outside and were not able to participate in the study.,Negative,does_not_participate_in_study
+10.1186_s12889-020-08952-7,Ever using injection drugs,"""T. pallidum infection""","History of drug abuse and other high-risk behaviors relied on self-reporting without further verification, which might result in a misclassification bias for the estimation of associations between study factors and T. pallidum infection.",Negative,misclassifies_associations
+10.1186_s12889-020-09121-6,Started offering ART in the area via mobile clinics,"""Other strategies implemented after the survey""","""Scaled up Assisted Partner Notification","‘Moon Light HIV’""","""HIV cascade of care indicators (90 – 90-90 targets) being achieved"""
+10.1186_s12889-020-09150-1,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1186_s12889-020-09150-1,No choice,Dealing with PLTB,So I've got a son with a TB … For now he's okay and let me say that I'm dealing with that because I {} {have} no choice.,Negative,cannot_escape_tb
+10.1186_s12889-020-09150-1,Obligation,Taking care of family member,"However, it seemed that this feeling of taking care of their family member who was diagnosed with TB, was more out of a sense of obligation.",Positive,takes_care_of_family_member
+10.1186_s12889-020-09278-0,Household wealth index,HIV infection,"Programs and interventions focusing on control of HIV/AIDS should focus on widowed, divorced and separated individuals as well as promoting appropriate prevention strategies such as condom use, use of post/pre-exposure prophylaxis and abstinence from sexual activities to prevent contracting HIV or other sexually transmitted infections (STIs).",Positive,focuses_on_control
+10.1186_s12889-020-09278-0,Lifetime sexual partners,HIV infection,Our results also confirmed a significant positive association between the number of lifetime sexual partners and increased chances of HIV infection. Lifetime sexual partners reported may be a proxy for sexual behavior and lifetime sexual history.,Positive,increases_hiv_risk
+10.1186_s12889-020-8426-1,Low CD4 count,"""Higher risk of LTFU""",Patients with low CD4 between 0 and 250 cells/μl at enrolment were at a higher risk of LTFU in our study.,Negative,lftu_risk
+10.1186_s12889-020-8426-1,"Delaies in diagnosis, enrolment into HIV care, and initiation of ART","""Low median CD4 count""",This data is similar to data published from several parts of SSA [38–41].,Positive,low_cd4_count
+10.1186_s12889-021-12100-0,Experiencing all types of IPV,HIV infection,Experiencing all types of IPV increases HIV infection.,Negative,intimate_partner_violence_hiv_infection
+10.1186_s12889-021-12100-0,Having an alcoholic husband,HIV infection,Having an alcoholic husband is associated with HIV infection.,Unknown,having_alcoholic_husband_hiv_infection
+10.1186_s12889-024-19206-1,MIS utilization,"""Comprehensive analysis""","""The utilization of large-scale datasets from MIS ensures a comprehensive analysis.""",Positive,utilizes_mis_for_analysis
+10.1186_s12889-024-19206-1,Multiple associated factors,"""More nuanced understanding""","""The inclusion of multiple associated factors allows for a more nuanced understanding of the complex determinants influencing malaria positivity in these nations.""",Positive,provides_more_nuanced_understanding
+10.1186_s12889-024-20664-w,Social development,Decreasing ASIR,All SDI countries showed a declining trend in ASIR.,Negative,declines_asir
+10.1186_s12889-024-20664-w,Level of social development,Tuberculosis incidence,"According to previous research records, the level of social development is an important factor affecting the incidence,",Unknown,is_relevant_to
+10.1186_s12889-024-20666-8,X8,Alcohol consumption,income level was negatively correlated with alcohol consumption,Negative,correlates_with_alcohol_consumption
+10.1186_s12889-024-20666-8,X2,Income level,income level was negatively correlated with HCV,Negative,negatively_correlated_with_hcv
+10.1186_s12889-025-22211-7,Mother’s education level,Malaria status,We used a regression model using SPSS 21 software under Windows.,Positive,explains_malaria_status
+10.1186_s12889-025-22211-7,Place of residence,Malaria status,The aim of this study is to help identify the factors that determine malaria status in Niger.,Unknown,is_relevant_to
+10.1186_s12889-025-22211-7,Mosquito net ownership,Malaria status,"In our study, we have the following independent variables:...",Negative,reduces_malaria_risk
+10.1186_s12889-025-22211-7,Number of children in the household,Malaria status,We also used Multiple Component Analysis (MCA) to establish the profile of children who are active.,Positive,influences_malaria_status
+10.1186_s12889-025-22211-7,Age,Malaria status,"In our study, we have the following independent variables:...",Unknown,is_relevant_to
+10.1186_s12913-020-05284-5,Year of study,"""Health care seeking behavior from Health Facilities""","""The year of study did not have a significant effect on health care seeking behavior.""",Negative,year_of_study_no_effect_on_health_care_seeking_behavior
+10.1186_s12913-020-05284-5,Sample size,"""Not seeking health care from any sources""","""A larger sample size was associated with an increase in not seeking health care from any sources.""",Positive,sample_size_increases_not_seeking_health_care
+10.1186_s12936-020-03423-1,Male,Increased odds of having malaria,"If an individual is male, it increases their chances of getting malaria.",Positive,male_increases_malaria
+10.1186_s12936-020-03423-1,Age 4y+,Increased odds of having malaria,The age group 4 years and above has a higher risk of contracting malaria.,Positive,affects_malaria_risk
+10.1186_s12936-020-03423-1,Aging (15-64 years) and Aging (65 years and above),Increased odds of having malaria,Older individuals have a greater likelihood of getting infected with malaria.,Positive,affects_malaria_risk
+10.1186_s12936-020-03423-1,Household does not own a hamlet,Decreased odds of having malaria,Living in a household that does not own a hamlet has a protective effect against malaria.,Negative,protects_against_malaria
+10.1186_s12936-020-03423-1,Lives > 20 km from an urban area,Decreased odds of having malaria,Residing more than 20 kilometers away from an urban area reduces the risk of getting malaria.,Positive,reduces_risk
+10.1186_s12936-020-03443-x,Lowest SES quintile,Increased ITN use,Only 82.6% of children in the lowest quintile (most poor) were reported to use an ITN the previous night.,Positive,increases_itn_use
+10.1186_s12936-020-03443-x,Wealth quintiles,Lower Plasmodium falciparum infection rate,The finding that the least poor children have a higher P. falciparum infection risk is not explained by a greater number of passively detected infections in these children.,Negative,reduces_infection_rate
+10.1186_s12936-020-3103-5,Proxy input parameters,Might overestimate malaria cases,The percentage who sought treatment for fever in the past 2 weeks was used as a proxy indicator for seeking malaria care. This might have overestimated malaria cases as there are other causes of fever among individuals (besides malaria).,Negative,overestimates_malaria_cases
+10.1186_s12936-020-3103-5,LLIN interventions,Would eliminate private health expenditures,"The four interventions would eliminate about $4,627,800 of private health expenditures, and the poorest income quintiles would see the greatest FRP benefits.",Positive,eliminates_private_health_expenditures
+10.1186_s12936-020-3103-5,Malaria vaccine,Would prevent 2% of malaria-related child deaths,Only 2% of malaria-related child deaths would be prevented from the vaccine in this study.,Negative,prevents_child_deaths
+10.1186_s12936-021-03948-z,Malaria infection,Anaemia,Acute and repeated malaria infections over time have a detrimental effect on haemoglobin levels.,Negative,cases_malaria_anemia
+10.1186_s12936-021-03948-z,Malaria infection,Anaemia,The results from the predictions indicate a 92.5% prevalence of anaemia among malaria positive children.,Positive,predicts_anaemia
+10.1186_s12936-023-04756-3,Sex of child,Lower odds of under-five malaria infection,associated with slightly lower odds of under-five malaria infection (AOR = 0.98; 95% CI 0.97–0.99).,Positive,sex_of_child_malaria_infection
+10.1186_s12936-024-04939-6,Household size,Malaria risk,Addressing these underlying socio-economic determinants is essential for developing holistic malaria control strategies.,Positive,address_mosquito_breeding
+10.1186_s12936-024-04939-6,Type of mosquito net,Malaria status,The correlation between household size and malaria risk underscores the broader implications of socio-demographic factors in shaping malaria transmission dynamics within communities.,Both,makes_malaria_status
+10.1186_s12936-024-04965-4,Age,"""Plasmodium infection status""",Individuals who's aged < 5 was 86% more likely to have Plasmodium infection.,Negative,decreases_mosquito_infection
+10.1186_s12936-024-04965-4,Fever,"""Plasmodium infection status""","""Fever during survey time was associated with a decreased risk of Plasmodium infection.""",Positive,increases_resistance_to_malaria
+10.1186_s12936-024-04997-w,MHHs,Increased malaria infection,FHHs may demonstrate more effective malaria prevention measures than MHHs.,Positive,more_effective_malaria_prevention
+10.1186_s12936-024-05038-2,Case,Data abstraction,"Information including patient’s age, sex, clinical information (Table 1), date of admission and discharge, outcome, referral status, treatment given, and the physician who saw the client most frequently.",Positive,data_abstraction
+10.1186_s12936-024-05185-6,Diarrhea,Malaria infection,Yes 1.21 (0.87–1.68) 0.269,Unknown,diarrhea_malaria_infection
+10.1186_s12936-024-05228-y,Torn ITNs,Lose potency,Torn ITNs might not be protective against mosquitoes anymore.,Negative,loses_potency
+10.1186_s12936-024-05228-y,Age < 5,Has lower malaria positivity rate,-4.52 (95% C.I) -0.033,Positive,had_lower_malaria_rate
+10.1186_s12936-024-05228-y,Age 5-14,Has lower malaria positivity rate,-3.49 (95% C.I) -0.71,Positive,had_lower_malaria_rate
+10.1186_s12936-024-05228-y,Age > 14,Has higher malaria positivity rate,4.52 (95% C.I) 1.74,Positive,had_higher_malaria_rate
+10.1186_s12936-024-05238-w,Malaria RDT results,Malaria,Table 2 Association between participants’ characteristics and malaria rapid diagnostic test (RDT) results.,Positive,associated_with_malaria
+10.1186_s12936-024-05238-w,Household head occupation,Malaria,Table 2 Association between participants’ characteristics and malaria rapid diagnostic test (RDT) results.,Unknown,is_associated_with_malaria
+10.1186_s12936-024-05238-w,Household head education,Malaria,Table 2 Association between participants’ characteristics and malaria rapid diagnostic test (RDT) results.,Unknown,is_associated_with_malaria
+10.1186_s12936-024-05238-w,Household wealth tertile,Malaria,Table 2 Association between participants’ characteristics and malaria rapid diagnostic test (RDT) results.,Positive,is_associated_with_malaria
+10.1186_s12936-024-05238-w,Malaria,Anaemia,Malaria is associated with anaemia.,Positive,is_associated_with_anaemia
+10.1186_s12936-025-05244-6,Malaria diagnosis based on self-reports,Malaria misclassification,Knowledge of malaria is used for diagnosis.,Negative,misclassifies_malaria
+10.1186_s12936-025-05244-6,Low knowledge level,High knowledge level,"Low and ""High"" knowledge levels were classified based on participants' responses.",Both,knowledge_levels
+10.1186_s12936-025-05289-7,Mother's education level,Wealth index,Multiple imputations by chained equations (MICE) is a powerful and flexible method for handling missing data...,Positive,multiple_imputation_handles_missing_data
+10.1186_s12936-025-05289-7,Wealth index,Malaria prevalence,The aim of this study was to determine the risk factors associated with positive malaria RDT results.,Unknown,is_associated_with
+10.1186_s12936-025-05313-w,Socioeconomic factors,"""Effective malaria prevention""","""Critical role of socioeconomic factors in effective malaria prevention""",Positive,socioeconomic_factors_contributes_to_malaria_prevention
+10.1186_s12936-025-05340-7,,,,,
+10.1186_s12940-025-01180-9,Changes in temperature condition,"""alter breeding sites""","""Breeding site changes may alter survival and proliferation of sandflies.""",Positive,alters_survival_proliferation
+10.1186_s12940-025-01180-9,Temperature deviation > 1,"""VL cases increase""","""Rapid temperature increases significantly promote disease transmission.""",Positive,promotes_transmission
+10.1186_s12940-025-01180-9,Increased precipitation,"""VL risk elevation""","""Combined effects of increased precipitation and rising temperatures due to climate change may further elevate the risk of VL and expand its endemic areas.""",Positive,elevates_risk
+10.1186_s12940-025-01180-9,Climate change,"""VL cases increase""","""The combined effects of increased precipitation and rising temperatures due to climate change may further elevate the risk of VL and expand its endemic areas.""",Positive,increases_cases
+10.1186_s12955-021-01702-2,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1186_s12955-021-01702-2,Age below 25 years,GPH,,Negative,lowers_physical_health
+10.1186_s12955-021-01702-2,Married,GMH,,Positive,improves_mental_health
+10.1186_s12955-021-01702-2,Divorced/widowed,GMH,,Unknown,affects_mental_health
+10.1186_s12955-021-01702-2,Unemployed,GPH,Tackling the issue of unemployment and food insecurity improves physical HRQoL.,Negative,impedes_physical_health
+10.1186_s12955-021-01702-2,Food-insecure,GPH,Tackling the issue of unemployment and food insecurity improves physical HRQoL.,Negative,impedes_physical_health
+10.1186_s12955-021-01702-2,Food-insecure,GMH,,Positive,improves_mental_health
+10.1186_s12955-021-01702-2,Comorbidities,GPH,,Unknown,affects_physical_health
+10.1186_s12981-022-00498-5,Socio-economic status,Psychological distress,Addressing social and resource inequality...will address social stressors and mitigate psychological distress.,Negative,mitigates_stress
+10.1186_s12981-022-00498-5,Educational achievement,Self-efficacy,Educational achievement has a positive effect on outlook in life and increase self-efficacy...,Positive,increases_self_efficacy
+10.1186_s12981-022-00498-5,Employment status,Mental health,"Employment promotes positive emotions due to social security since jobs provide resources that can mitigate stress, support healthy lifestyles and thereby promote mental health.",Positive,mitigates_stress
+10.1186_s12981-025-00745-5,Disease burden,indicating greater absolute inequality,The bottom panels present the concentration index (negative values indicate the concentration of disease burden in disadvantaged populations) and Lorenz curves that illustrate the distribution of DALYs relative to the population distribution by socioeconomic status,Negative,indicates_greater_absolute_inequality
+10.1186_s12992-022-00855-z,LNINF,LNPHY,"Education imparts knowledge and builds awareness for maintaining good health, which also plays a role in reducing infant and child mortality rates.",Positive,bidirectional_health_impacts
+10.1186_s12992-022-00855-z,LNINF,LNHIV,Increase in the HIV prevalence rate increases both the infant and child mortality rates.,Negative,increases_mortality_rates
+10.1186_s12992-022-00855-z,LNPHY,LNINF,"Public health expenditure, numbers of physicians, GDP , education, good governance, and globalization reduce infant and child mortality rates.",Positive,reduces_mortality_rates
+10.1186_s12992-022-00855-z,LNINF,Government,Good governance plays a role in reducing infant and child mortality rates.,Positive,better_governance_impacts
+10.1186_s13011-020-00301-6,Male sex,Male sex X2 = 17.999 P = 0.000,Strong and positive,associated with,strongly_associated_with
+10.1186_s13011-020-00301-6,Low education,Lower education X2 = 9.86 P = 0.000,Strong and positive,related to,strongly_related_to
+10.1186_s13011-020-00301-6,Low income,Low income X2 = 13.68 P = 0.002,Strong and positive,correlated with,correlated_with
+10.1186_s13011-020-00301-6,Cigarette smoking,Cigarette smoking 3.4 1.38 – 8.40,Strong and positive,correlated with,correlated_with
+10.1186_s13011-020-00301-6,Harmful alcohol use,Harmful alcohol use,Strong and positive,related to,strongly_related_to
+10.1186_s13071-020-04157-4,Contact infected water,"""Fever and diarrhea""","""Cause of infection""","""Negative""","""causes_symptoms"""
+10.1186_s13071-020-04551-y,VL outbreaks,VL surveillance data are not available at the block level prior to 2009,"The other eight blocks, all north of the Ganges River, had mean annual incidence between 2 and 7 per 10,000 population during 2009–2011.",Negative,is_relevant_to
+10.1186_s13071-020-04551-y,All age groups were affected by VL,Risk was significantly higher among 10–19 year-olds and adults 35 years or older compared to children younger than 10 years,"In univariable analyses, adult males had",Positive,affects
+10.1186_s40249-020-00717-z,Temperature and relative humidity,"""Dengue fever cases""","""Modelling the association of dengue fever cases with temperature and relative humidity.""",Positive,associates_with_dengue_fever
+10.1186_s40249-020-00717-z,El Niño,"""Vectorborne disease transmission""","""El Niño and the dynamics of vectorborne disease transmission.""",Positive,affects_vectorborne_disease
+10.1186_s40249-020-00717-z,Dengue hemorrhagic fever epidemics,"""Epidemiology""","""Description and forecasting of dengue hemorrhagic fever epidemics.""",Unknown,is_described_by
+10.1186_s40249-020-00727-x,Slide positive rate,Parasitaemia level difference,"The meta-regression analysis using the slide positive rate as a covariate revealed that the slide positive rate was not a confounding factor for the parasitaemia level difference (P= 0.375, t = − 1.04, 95% CI: − 60.7– 30.8).",Unknown,does_not_confound
+10.1186_s40249-020-00727-x,Study site,Platelet count in patients with severe P. knowlesi infections,"The subgroup analysis of study sites demonstrated that a subgroup difference was observed (P= 0.004), and a significantly lower platelet count was found in both the included studies conducted in Sabah (P < 0.00001, MD: − 21 280, 95% CI: − 28 120– 14 440, I2 = 74%) and those studies conducted in Sarawak (P < 0.00001, MD: − 32 550, 95% CI: − 36 220– 28 890, I2 = 0%).",Negative,affects_platelet_count
+10.1186_s40249-020-00732-0,AIDS,Increased TB incidence,AIDS impacted the increase in the number of cases of pulmonary and extrapulmonary TB.,Positive,affects_tb_incidence
+10.1186_s40249-020-00787-z,Having fever,RDT positivity,The presence or absence of fever was reported on the basis of the patients' responses through proper history taking by the VHV.,Positive,has_fever
+10.1186_s40249-020-00787-z,Traveling to malaria endemic area outside the village,RDT positivity,Traveling to malaria endemic area of outside the village increases the likelihood of having a positive RDT result.,Positive,travels_to_endemic_area
+10.1186_s40249-021-00822-7,I don't know the answer. The provided document appears to be a research paper and its supplementary information,which does not contain causal relationships that can be extracted in the specified CSV format. The text only discusses the study's methodology,results,and author contributions,without mentioning any cause-and-effect relationships.
+10.1186_s40249-022-00949-1,Deprivation quintile,"""Excess risk of non-MDR-TB""","""The excess risk of non-MDR-TB increased from 28.1 to 93.5% with increased deprivation from the third to the fifth quintiles of the EDI-PT.""",Positive,increases_excess_risk
+10.1265_ehpm.24-00169,"Sex, female","""Lower risk of MDR-TB""","""Female sex was found to be associated with a lower risk of MDR-TB.""",Positive,female_sex_lowers_mdr_tb
+10.1265_ehpm.24-00169,"Income, <Regional Minimum Wage","""Higher risk of MDR-TB""","""Patients earning less than the regional minimum wage were more likely to develop MDR-TB.""",Positive,increases_mdr_tb_risk
+10.1265_ehpm.24-00169,"Marital status, Single","""Higher risk of MDR-TB""","""Single marital status was found to be associated with a higher risk of MDR-TB.""",Positive,increases_mdr_tb_risk
+10.1265_ehpm.24-00169,"Marital status, Divorced or widowed","""Higher risk of MDR-TB""","""Divorced or widowed marital status was found to be associated with a higher risk of MDR-TB.""",Positive,increases_mdr_tb_risk
+10.1265_ehpm.24-00169,"Smoke per years, >10 pack-years","""Lower risk of MDR-TB""","""Patients who smoked more than 10 pack-years were less likely to develop MDR-TB.""",Positive,lowers_mdr_tb_risk
+10.1265_ehpm.24-00169,"Alcohol consumption, yes","""Higher risk of MDR-TB""","""Alcohol consumption was found to be associated with a higher risk of MDR-TB.""",Positive,increases_mdr_tb_risk
+10.1265_ehpm.24-00169,"Travelling time, >3 hours","""Higher risk of MDR-TB""","""Patients who traveled more than 3 hours to the hospital were more likely to develop MDR-TB.""",Positive,increases_mdr_tb_risk
+10.1265_ehpm.24-00169,"Role of PMO, supportive","""Lower risk of MDR-TB""","""Supportive role of PMO was found to be associated with a lower risk of MDR-TB.""",Positive,lowers_mdr_tb_risk
+10.1371_journal.pmed.1003042,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1371_journal.pmed.1003042,We did not adjust for country-level confounding,HIV heterogeneity,We did not adjust for country-level confounding because we expect the associations between HIV and the predictor variables to be similar across countries.,Unknown,is_relevant_to
+10.1371_journal.pmed.1003297,Physical violence ever by client,"""Depression (PHQ-9)""","""Physical violence ever by a client is associated with depression.""",Positive,"""is_associated_with_depression"""
+10.1371_journal.pmed.1003297,Physical violence ever by client,"""Suicide ideation or attempt ever""","""Physical violence ever by a client is associated with suicide ideation or attempt.""",Positive,"""is_associated_with_suicide"""
+10.1371_journal.pmed.1003369,Holiday,Decreased hospitalization,Holiday was a binary variable (public holiday or not) to adjust for potential impacts of public holidays on hospitalization.,Negative,holidays_impact_hospitalizations
+10.1371_journal.pntd.0008149,Disease knowledge,Demand for prevention,A one-unit increase in disease knowledge increased the demand for prevention by 0.84 unit for malaria and dengue.,Positive,increases_demand_for_prevention
+10.1371_journal.pntd.0008393,Comorbidities,"""Wound healing""","""Comorbidities negatively impact wound healing.""",Negative,affects_wound_healing
+10.1371_journal.pntd.0008393,Risk factors,"""Wound volume""","""The study found that risk factors are associated with increased wound volume.""",Positive,is_associated_with
+10.1371_journal.pntd.0008508,Elevation,"""S. haematobium infection""","""The reported odds ratios (ORs) correspond to an increase of 100 m for elevation...""",Positive,elevation_associated_with_infection
+10.1371_journal.pntd.0008508,Annual rainfall,"""S. haematobium infection""","""The reported odds ratios (ORs) correspond to an increase of 100 mm for annual rainfall...""",Positive,annual_rainfall_associated_with_infection
+10.1371_journal.pntd.0008703,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1371_journal.pntd.0008703,Farming being the main source of income,Dengue risk,Farming being the main source of income is associated with dengue risk on a subset of the dataset.,Unknown,farming_associated_with_dengue_risk
+10.1371_journal.pntd.0008703,Eaves gaps in households,Types of vector control activities,"Households with or without eaves gaps in northeastern Thailand differ significantly in types of vector control activities, June 2016 and August 2019.",Negative,differs_in_vector_control_activities
+10.1371_journal.pntd.0008918,Don't know,"""Transmission of dengue""","""Don’t know is relevant to transmission of dengue.""",Unknown,is_relevant_to
+10.1371_journal.pntd.0009024,Age group,"""IgG positivity""",No association between age group and IgG positivity.,Unknown,no_association_age_group_igG_positive
+10.1371_journal.pntd.0009024,Socio-economic variables,"""Anti-DENV IgG seropositivity""",No socio-economic variables were associated with anti-DENV IgG seropositivity.,Negative,has_no_association_se_vars_anti_denv_igg
+10.1371_journal.pntd.0009486,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1371_journal.pntd.0009486,Health districts,living in certain health districts,"Participants living in certain health districts, were significantly associated with S. mansoni infection.",Positive,associated_with_infection
+10.1371_journal.pntd.0009486,Age,S. mansoni infection risk,"To explore the relationship between S. mansoni infection risk and age,",Unknown,is_related_to
+10.1371_journal.pntd.0009679,Vector control activities,Increased community participation,Implementation of vector control activities increases community participation.,Positive,increases_community_participation
+10.1371_journal.pntd.0009679,Dengue status,Risk factors for symptomatic dengue,Dengue status is associated with risk factors for symptomatic dengue.,Unknown,is_associated_with
+10.1371_journal.pntd.0009679,Vegetation index,Disease risk,Vegetation index is associated with disease risk.,Positive,is_associated_with
+10.1371_journal.pntd.0009745,GDP,"""DF cases""","""The DF cases were strongly associated with GDP.""",Positive,correlates_with_disease_outbreaks
+10.1371_journal.pntd.0009745,Road density,"""DF cases""","""The DF cases were strongly associated with road density.""",Positive,correlates_with_disease_outbreaks
+10.1371_journal.pntd.0009745,Population density,"""DF cases""","""The DF cases were strongly associated with population density.""",Positive,correlates_with_disease_outbreaks
+10.1371_journal.pone.0225744,LTBI and no treatment,No LTBI,Treatment of latent tuberculosis infection (LTBI) is effective for preventing progression to active TB.,Positive,prevents_TB_progression
+10.1371_journal.pone.0225744,Not tested,No LTBI,Failing to test for LTBI may result in undiagnosed and untreated cases.,Negative,fails_to_diagnose_and_treat
+10.1371_journal.pone.0225744,Having a spouse with TB,LTBI and no treatment,Marrying someone with TB increases the risk of developing LTBI if not treated.,Positive,increases_LTBI_risk
+10.1371_journal.pone.0231143,mother's wealth category,mother's utilization of health services during and after her last pregnancy,being HIV-exposed in a child,Negative,lowers_HIV_exposure
+10.1371_journal.pone.0231737,ever given birth,Experience of violence among girls aged 10–14 years,The experience of violence is associated with having ever given birth.,Negative,associated_with_violence
+10.1371_journal.pone.0232838,Anemia,Increased mortality,"Children with anemia are challenging to healthcare workers, and result in poor treatment outcomes.",Negative,increases_mortality
+10.1371_journal.pone.0236247,Discrimination at job,Lost employment,She was fired because she could no longer work due to her injury.,Negative,fired_due_to_injury
+10.1371_journal.pone.0236247,Injury on the job,Lost employment,She was fired because she could no longer work due to her injury.,Negative,fired_due_to_injury
+10.1371_journal.pone.0237269,Poverty Ratio,"""% Latino Living Below Poverty""","""The coefficient measures the change in the rate for Latino versus NL Whites (i.e. the disparity) when X changes one unit.""",Negative,poverty_increases_latino_poverty
+10.1371_journal.pone.0237649,Age,"""Mean (SD)""","""No competing interests exist.""",Positive,age_affects
+10.1371_journal.pone.0237649,Living with family,"""No""","""Increased risk of HIV infection among those not living with family.""",Negative,living_with_family_affects_hiv_infection
+10.1371_journal.pone.0237649,Region of residence 2 years before induction,"""Upper North""","""Higher incidence of HIV infection in Upper North region.""",Positive,region_of_residence_affects_hiv_infection
+10.1371_journal.pone.0237649,Occupation,"""Student""","""Increased risk of HIV infection among students.""",Negative,occupation_affects_hiv_infection
+10.1371_journal.pone.0244563,Have electricity,Testing positive,Subjects who have electricity are more likely to test positive for HIV.,Positive,test_positive
+10.1371_journal.pone.0244563,Islam,Some knowledge of the disease,The presence of Islam is associated with increased knowledge about the disease.,Positive,knowledge_of_disease
+10.1371_journal.pone.0244563,Had a job currently or had a job in past year,Testing positive,Having a job is positively correlated with testing positive for HIV.,Positive,test_positive
+10.1371_journal.pone.0246671,Mother death,Child survival,The timing of a mother's death and child survival may be due to the shared environment or other common risk factors.,Unknown,timing_may_influence_survival
+10.1371_journal.pone.0246671,Holdings SES variation,Main finding,We computed the household wealth index by summarizing the common set of household assets. We used this index as a time-varying covariate to determine if SES variation explained our main finding.,Positive,explains_main_finding
+10.1371_journal.pone.0249864,LP,"""composite endpoint""",LP remains a major health issue in Spain,Negative,lp_leads_to_composite_endpoint
+10.1371_journal.pone.0249864,time-period (2004–2008),"""risk factors for LP and LPAD had changed over time""",The risk factors for LP and LPAD had changed over time,Positive,leads_to_changes_in_risk_factors
+10.1371_journal.pone.0250045,Slept on farm,Malaria prevention knowledge,No other competing interests are declared.,Negative,no_effect_on_malari a_prevention
+10.1371_journal.pone.0258915,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.1371_journal.pone.0258915,Children,Age-related infection risk,Infection prevalence being 13.2% higher in children compared to adults.,Negative,increases_infection
+10.1371_journal.pone.0284032,Under-five mortality rate,"""Fertility""","""Some studies find that a decrease in under-five mortality is associated with a decline in fertility.""",Positive,declines_fertility
+10.1371_journal.pone.0284032,No statistically significant relationship between under-five mortality and fertility,"""Fertility""","""Some studies find no statistically significant relation-ship between under-five mortality and fertility.""",Unknown,no_significant_relationship
+10.1371_journal.pone.0301311,Applying the thematic framework to all transcripts,Organized codes reflecting prominent themes within the dataset,The thematic framework was systematically applied to all transcripts and organized codes which were valuable for organizing the research question into categories.,Positive,organizes_codes_reflecting_prominent_themes
+10.1371_journal.pone.0308271,Minimum yearly temperature,"""Dengue fever incidence""","""Rising temperatures increase dengue risk.""","""Positive""","""increases_dengue_risk"""
+10.1371_journal.pone.0308271,Population density,"""Dengue fever incidence""","""An increase of one standard deviation in population density decreased the risk of dengue fever incidence by a factor of 0.72.""","""Negative""","""decreases_dengue_risk"""
+10.1371_journal.pone.0308271,% Mayan population,"""Dengue fever incidence""","""An increase of one standard deviation in % Mayan population decreased the risk of dengue fever incidence by a factor of 0.52.""","""Negative""","""decreases_dengue_risk"""
+10.21149_11984,Age >60 years,Progresión de síntomas graves o muerte,Una edad >60 años era factor de riesgo para la progresión (B2b).,Negative,ages_associated_with_severe_outcome
+10.21149_11984,Deterioro cognitivo y síntomas depresivos,Fragilidad del estado de salud,"Los cambios relacionados con la edad, como la desnutrición, el deterioro cognitivo y los síntomas depresivos, interactúan en varios niveles y conducen a una mayor fragilidad de su estado de salud (D5).",Positive,deterioration_leads_to_fragility
+10.21149_11984,Enfermedad pulmonar crónica,Desarrollo de Covid-19 severo,"La enfermedad pulmonar crónica (EPOC) mostró un aumento de cuatro veces el riesgo de desarrollar Covid-19 severo (OR 4.38, IC95% 2.34-8.20).",Positive,EPOC_increases_severe_covid_risk
+10.21149_11984,Enfermedad pulmonar crónica,"Muerte, ingreso en UCI y VMI","La enfermedad pulmonar crónica (EPOC) fue factor estadísticamente significativo para los subgrupos de muerte, ingreso en UCI y VMI (OR 6.55, IC95% 1.85-22.46).",Positive,EPOC_associated_with_severe_outcomes
+10.2196_40659,Cause,Effect,Description,Effect_Polarity,Edge_Label
+10.2196_40659,Panel regression,could not include all 128 factors and ID and time to fit,N/A,Negative,does_not_fit
+10.2196_40659,Random effect model,better than the pool model and fixed effect model,N/A,Positive,is_better_than
+10.3201_eid2603.191314,Household exposure to Beijing strains,TST-positive,children <5 years of age who had household exposure to Beijing strains were 1.5 times more likely than those exposed to other strains to be TST-positive at baseline,Positive,beijing_strain_exposure_tst_positive
+10.3201_eid2603.191314,Household exposure to Beijing lineage,TB progression,Beijing lineage–exposed contacts were 7 times more likely than those exposed to the M. africanum lineage to progress to TB after 2 years of follow-up,Positive,beijing_lineage_exposure_tb_progression
+10.3389_fpubh.2021.691006,Year of death,"""Percentage of deaths from TB""","A decreasing trend in the percentage of deaths from TB was observed among patients with singles (55.1%, n = 12,115), while a decreasing trend in the percentage of deaths from TB was observed among patients with",Negative,decreases_TB_mortality
+10.3389_fpubh.2021.691006,Marital status,"""Percentage of deaths from TB""","A decreasing trend in the percentage of deaths from TB was observed among married patients (47.7%, n = 9,853), while a decreasing trend in the percentage of deaths from TB was observed among single patients (52.3%)",Negative,decreases_TB_mortality
+10.3389_fpubh.2021.691006,Occupation,"""Percentage of deaths from TB""","A higher percentage of deaths from TB was observed among students, homemakers, and unemployed individuals (76.5%, n = 16,802)",Positive,increases_TB_mortality
+10.3389_fpubh.2022.832624,Age,"""Older PLWH in SA group""","""There was a statistically signiﬁcant age diﬀerence among the three groups. The PLWH in the SA group were older than those in the SI or NSB groups.""",Positive,olders_plwh_sa_group
+10.3389_fpubh.2024.1376235,Media exposure,"""Heard about HIV""","""Women’s education and wealth index""",Positive,media_exposure_and_hiv_knowledge
+10.3389_fpubh.2024.1376235,Multiple sexual partners,"""Yes""","""Unemployment""",Negative,multiple_sexual_partners_and_unemployment
+10.3389_fpubh.2024.1376235,Heard about HIV,"""Yes""","""Wealth index (higher)""",Positive,hiv_knowledge_and_wealth_index
+10.3389_fpubh.2024.1376235,Residence (Rural),"""No""","""Occupation (Employed)""",Unknown,residence_and_occupation
+10.3389_fpubh.2024.1503884,Mother's education level,"""Anemia status""","""Mothers with higher education have lower rates of anemia.""",Positive,anemia_status
+10.3389_fpubh.2024.1503884,Electricity,"""Anemia status""","""Households without electricity have higher rates of anemia.""",Negative,anemia_status
+10.3389_fpubh.2025.1427319,Establishment of a special fund for leprosy,"""More stable association results""","""The establishment of a special fund for leprosy in 2004 and the outbreak of COVID-19 at the end of 2019 may have resulted in great heterogeneous associations between socioeconomic factors and leprosy risk.""",Negative,limits_associations
+10.3906_sag-2006-140,Have a psychiatric disorder,Anxiety,Individuals with psychiatric disorders may experience increased anxiety during the COVID-19 pandemic.,Positive,anxiety_related_to_psychiatric_disorder
+10.3906_sag-2006-140,HIV+ and thinking you will have more complications if you acquire COVID-19,Anxiety,The fear of acquiring COVID-19 and experiencing additional complications due to HIV+ status may contribute to increased anxiety in individuals with HIV.,Positive,fear_of_complications_contributes_to_anxiety
+10.4081_gh.2020.819,Family poverty,Malaria deaths,Family poverty has proven to be a major factor in childhood deaths attributed to malaria.,Positive,major_factor_in_childhood_deaths
+10.4081_gh.2024.1285,Rainfall reduction,"""Impact on larval breeding sites""","""A reduction in rainfall could potentially impact larval breeding sites.""",Negative,reduces_larval_breeding_sites
+10.47205_jdss.2021(2-iv)74,Lack of sustained water policy,treatment capacity is insufficient,Water sharing formula has not been effectively implemented due to lack of sustained water policy.,Negative,impedes_effective_implementation
+10.47205_jdss.2021(2-iv)74,Treatment capacity is insufficient,socioeconomic and agricultural crises,Insufficient treatment capacity leads to socioeconomic and agricultural crises.,Positive,socioeconomic_and_agricultural_crisis
+10.47205_jdss.2021(2-iv)74,Distrust among the working institutions of the provinces,number of political and racist movements getting a strong point of interest and added authority to the opinion of the opposition,Distrust among the working institutions of the provinces leads to number of political and racist movements gaining strength.,Positive,leads_to_political_movement_strength
+10.47205_jdss.2021(2-iv)74,Number of political and racist movements getting a strong point of interest and added authority to the opinion of the opposition,atmosphere of hatred among the people,Number of political and racist movements gaining strength creates an atmosphere of hatred among the people.,Negative,creates_hateful_atmosphere
+10.5365_wpsar.2018.9.1.005,Malnutrition,"""impairs cell-mediated immunity""","""Malnutrition impairs cell-mediated immunity.""",Positive,impairs_cell_mediated_immunity
+10.5644_ama2006-124.296,Extreme social inequalities,Poor health education,Extreme social inequaliti...,Negative,social_inequalities_impacts_health_education
